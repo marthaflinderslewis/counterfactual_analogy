@@ -16,7 +16,7 @@ Code for the paper Using Counterfactual Tasks to Evaluate the Generality of Anal
 
 ## Authorship
 
-This work extends experiments done by[Taylor Webb](https://github.com/taylorwwebb) in https://github.com/taylorwwebb/emergent_analogies_LLM/. All modifications carried out by [Martha Lewis](https://github.com/marthaflinderslewis)
+This work extends experiments done by [Taylor Webb](https://github.com/taylorwwebb) in https://github.com/taylorwwebb/emergent_analogies_LLM/. All modifications carried out by [Martha Lewis](https://github.com/marthaflinderslewis)
 
 ## Instructions
 
