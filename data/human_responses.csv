@@ -1,0 +1,2145 @@
+subj_id,model,promptstyle,nperms,alph,prob_type,prob_ind,response_string
+1,human,human,np_10,alph_1,succ,4.0,gyik
+1,human,human,np_10,alph_5,add_letter,9.0,fgrij
+1,human,human,np_10,alph_3,attn,9.0,aaaa
+1,human,human,np_10,alph_0,fix_alphabet,3.0,elgai
+1,human,human,np_10,alph_2,remove_redundant,7.0,vhefg
+1,human,human,np_10,alph_6,sort,7.0,qytpr
+1,human,human,np_10,alph_4,pred,1.0,g c d e
+1,human,human,np_5,alph_0,add_letter,2.0,bqpur
+1,human,human,np_5,alph_5,succ,9.0,uywv
+1,human,human,np_5,alph_4,pred,6.0,qstu
+1,human,human,np_5,alph_3,attn,9.0,a a a a
+1,human,human,np_5,alph_1,fix_alphabet,7.0,dofgi
+1,human,human,np_5,alph_2,sort,3.0,ogfji
+1,human,human,np_5,alph_6,remove_redundant,2.0,ghijr
+1,human,human,np_symb,symb_1,pred,5.0,!)<A
+1,human,human,np_symb,symb_0,succ,4.0,* @ = <
+2,human,human,np_20,alph_4,pred,5.0,n
+2,human,human,np_20,alph_6,succ,9.0,l
+2,human,human,np_20,alph_0,add_letter,9.0,i
+2,human,human,np_20,alph_2,attn,7.0,aaa
+2,human,human,np_20,alph_5,fix_alphabet,9.0,khlw
+2,human,human,np_20,alph_1,remove_redundant,0.0,ooflu
+2,human,human,np_20,alph_3,sort,3.0,jmxuq
+2,human,human,np_symb,symb_1,succ,1.0,&>$!&
+2,human,human,np_symb,symb_0,pred,7.0,* @ = &> &
+2,human,human,np_1,alph_1,fix_alphabet,1.0,o d e f g h
+2,human,human,np_1,alph_2,sort,7.0,a d c b e f
+2,human,human,np_1,alph_5,attn,2.0,aaa
+2,human,human,np_1,alph_4,pred,3.0,g h i j k
+2,human,human,np_1,alph_3,remove_redundant,3.0,n o o p q r p
+2,human,human,np_1,alph_6,succ,1.0,e f g h i
+2,human,human,np_1,alph_0,add_letter,5.0,t u v w x
+3,human,human,np_symb,symb_0,succ,0.0,) * @&
+3,human,human,np_symb,symb_1,pred,8.0,&$!+)
+3,human,human,np_2,alph_0,add_letter,4.0,u c d e f 
+3,human,human,np_2,alph_3,fix_alphabet,5.0,b w x q z
+3,human,human,np_2,alph_2,attn,2.0,a a a a
+3,human,human,np_2,alph_1,pred,4.0,h j k b
+3,human,human,np_2,alph_6,remove_redundant,8.0,t u v w x
+3,human,human,np_2,alph_5,succ,1.0,h i j f
+3,human,human,np_2,alph_4,sort,5.0,m n o p q
+3,human,human,np_1,alph_5,add_letter,9.0,o p q r s
+3,human,human,np_1,alph_6,sort,8.0,s p r q o
+3,human,human,np_1,alph_0,fix_alphabet,2.0,y q r i t
+3,human,human,np_1,alph_1,attn,9.0,a a a a
+3,human,human,np_1,alph_3,remove_redundant,2.0,o p q r s
+3,human,human,np_1,alph_2,succ,1.0,p q r t
+3,human,human,np_1,alph_4,pred,7.0,u w x y
+4,human,human,np_symb,symb_1,pred,6.0,)@=*
+4,human,human,np_symb,symb_0,succ,8.0,)*@&
+4,human,human,np_10,alph_3,add_letter,6.0,amcpz
+4,human,human,np_10,alph_1,pred,1.0,prsu
+4,human,human,np_10,alph_5,succ,4.0,nhqs
+4,human,human,np_10,alph_6,sort,2.0,nhpqt
+4,human,human,np_10,alph_0,remove_redundant,2.0,oghin
+4,human,human,np_10,alph_4,fix_alphabet,4.0,phnsj
+4,human,human,np_10,alph_2,attn,9.0,aaaa
+4,human,human,np_2,alph_6,add_letter,2.0,dmfgh
+4,human,human,np_2,alph_1,succ,3.0,efgi
+4,human,human,np_2,alph_0,attn,2.0,aaaa
+4,human,human,np_2,alph_3,remove_redundant,8.0,fghij
+4,human,human,np_2,alph_4,fix_alphabet,1.0,ecghi
+4,human,human,np_2,alph_2,pred,5.0,qwtu
+4,human,human,np_2,alph_5,sort,4.0,lghij
+5,human,human,np_2,alph_6,attn,4.0,aaaa
+5,human,human,np_2,alph_4,sort,8.0,kjlmn
+5,human,human,np_2,alph_1,remove_redundant,4.0,alcde
+5,human,human,np_2,alph_5,succ,2.0,uvwy
+5,human,human,np_2,alph_2,add_letter,4.0,nopgr
+5,human,human,np_2,alph_3,fix_alphabet,6.0,pvwoq
+5,human,human,np_2,alph_0,pred,8.0,ppqr
+5,human,human,np_symb,symb_1,succ,0.0,+)<@=
+5,human,human,np_symb,symb_0,pred,3.0,*=&<
+5,human,human,np_20,alph_3,add_letter,3.0,qnyak
+5,human,human,np_20,alph_6,fix_alphabet,1.0,mtisb
+5,human,human,np_20,alph_4,pred,0.0,cezb
+5,human,human,np_20,alph_0,sort,0.0,xcivm
+5,human,human,np_20,alph_2,attn,2.0,aaaa
+5,human,human,np_20,alph_1,remove_redundant,6.0,fluvp
+5,human,human,np_20,alph_5,succ,0.0,nxyz
+6,human,human,np_symb,symb_1,pred,7.0,&$!+
+6,human,human,np_symb,symb_0,succ,5.0,=&<!
+6,human,human,np_1,alph_1,sort,5.0,tusqr
+6,human,human,np_1,alph_5,succ,5.0,defh
+6,human,human,np_1,alph_2,add_letter,6.0,ghijk
+6,human,human,np_1,alph_4,fix_alphabet,5.0,werst
+6,human,human,np_1,alph_3,attn,0.0,fghj
+6,human,human,np_1,alph_0,pred,5.0,kmno
+6,human,human,np_1,alph_6,remove_redundant,2.0,abcde
+6,human,human,np_2,alph_6,fix_alphabet,5.0,lenop
+6,human,human,np_2,alph_3,add_letter,2.0,jklmn
+6,human,human,np_2,alph_0,pred,8.0,npqr
+6,human,human,np_2,alph_1,sort,1.0,alcde
+6,human,human,np_2,alph_5,remove_redundant,4.0,jkfmn
+6,human,human,np_2,alph_4,succ,1.0,fdeg
+6,human,human,np_2,alph_2,attn,4.0,aaaa
+7,human,human,np_1,alph_2,add_letter,0.0,nopqr
+7,human,human,np_1,alph_6,pred,9.0,Vxyz
+7,human,human,np_1,alph_4,sort,2.0,abcde
+7,human,human,np_1,alph_1,remove_redundant,0.0,defgh
+7,human,human,np_1,alph_3,attn,2.0,aaaa
+7,human,human,np_1,alph_5,succ,7.0,ghik
+7,human,human,np_1,alph_0,fix_alphabet,7.0,bcdef
+7,human,human,np_5,alph_0,sort,4.0,defgh
+7,human,human,np_5,alph_1,fix_alphabet,4.0,qxstu
+7,human,human,np_5,alph_4,add_letter,2.0,eqpst
+7,human,human,np_5,alph_6,succ,4.0,makq
+7,human,human,np_5,alph_2,pred,3.0,kanh
+7,human,human,np_5,alph_5,remove_redundant,7.0,ywxvi
+7,human,human,np_5,alph_3,attn,9.0,aaaa
+7,human,human,np_symb,symb_0,pred,8.0,)@=]
+7,human,human,np_symb,symb_1,succ,7.0,$!)<
+8,human,human,np_symb,symb_0,succ,2.0,=&<!
+8,human,human,np_symb,symb_1,pred,2.0,>!+)
+8,human,human,np_1,alph_4,attn,6.0,aaaa
+8,human,human,np_1,alph_3,add_letter,1.0,mnopq
+8,human,human,np_1,alph_0,sort,8.0,vtwsu
+8,human,human,np_1,alph_6,remove_redundant,2.0,abcde
+8,human,human,np_1,alph_5,succ,5.0,defh
+8,human,human,np_1,alph_2,pred,0.0,gijk
+8,human,human,np_1,alph_1,fix_alphabet,9.0,stuvw
+8,human,human,np_20,alph_6,pred,0.0,ewzl
+8,human,human,np_20,alph_1,add_letter,4.0,mhirk
+8,human,human,np_20,alph_5,remove_redundant,4.0,ytefb
+8,human,human,np_20,alph_0,succ,3.0,stwc
+8,human,human,np_20,alph_2,attn,6.0,aaaa
+8,human,human,np_20,alph_3,sort,1.0,fzvht
+8,human,human,np_20,alph_4,fix_alphabet,4.0,wpcde
+9,human,human,np_5,alph_5,fix_alphabet,3.0,jzlmn
+9,human,human,np_5,alph_6,succ,0.0,m a k q
+9,human,human,np_5,alph_4,add_letter,9.0,i j r l m
+9,human,human,np_5,alph_2,pred,9.0,n p m r
+9,human,human,np_5,alph_3,remove_redundant,2.0,p n r s t
+9,human,human,np_5,alph_0,sort,2.0,q p u r s
+9,human,human,np_5,alph_1,attn,8.0,a a a a
+9,human,human,np_20,alph_2,fix_alphabet,0.0,l y s o c
+9,human,human,np_20,alph_1,attn,2.0,a a a a
+9,human,human,np_20,alph_0,sort,5.0,t w m c i
+9,human,human,np_20,alph_5,add_letter,8.0,u q v o g
+9,human,human,np_20,alph_4,succ,4.0,s j g o
+9,human,human,np_20,alph_6,remove_redundant,5.0,j h n a u
+9,human,human,np_20,alph_3,pred,3.0,z h t c
+9,human,human,np_symb,symb_0,pred,4.0,* = & <
+9,human,human,np_symb,symb_1,succ,3.0,+ ) < =
+10,human,human,np_5,alph_5,sort,8.0,i
+10,human,human,np_5,alph_1,add_letter,4.0,fghij
+10,human,human,np_5,alph_4,attn,1.0,aaaa
+10,human,human,np_5,alph_6,remove_redundant,4.0,ghijr
+10,human,human,np_5,alph_3,pred,5.0,zpnr
+10,human,human,np_5,alph_2,succ,5.0,jkln
+10,human,human,np_5,alph_0,fix_alphabet,4.0,lmbqp
+10,human,human,np_20,alph_4,add_letter,1.0,asjgx
+10,human,human,np_20,alph_2,attn,0.0,aaaa
+10,human,human,np_20,alph_5,succ,5.0,khlc
+10,human,human,np_20,alph_1,fix_alphabet,8.0,djeom
+10,human,human,np_20,alph_6,sort,2.0,vwzlo
+10,human,human,np_20,alph_3,remove_redundant,0.0,bsdfz
+10,human,human,np_20,alph_0,pred,8.0,qfjd
+10,human,human,np_symb,symb_0,succ,2.0,=&<!
+10,human,human,np_symb,symb_1,pred,2.0,>!+)
+11,human,human,np_20,alph_2,pred,3.0,lsoc
+11,human,human,np_20,alph_4,sort,0.0,omntk
+11,human,human,np_20,alph_6,attn,0.0,a a a a
+11,human,human,np_20,alph_3,succ,2.0,pwjx
+11,human,human,np_20,alph_0,add_letter,7.0,jdkha
+11,human,human,np_20,alph_5,fix_alphabet,5.0,nxjsz
+11,human,human,np_20,alph_1,remove_redundant,3.0,uvpnx
+11,human,human,np_symb,symb_1,succ,9.0,!+)@
+11,human,human,np_symb,symb_0,pred,3.0,*=&<
+11,human,human,np_10,alph_1,succ,7.0,bcqf
+11,human,human,np_10,alph_0,pred,7.0,dogh
+11,human,human,np_10,alph_4,fix_alphabet,5.0,itkzm
+11,human,human,np_10,alph_6,remove_redundant,4.0,sdefg
+11,human,human,np_10,alph_3,add_letter,9.0,uvwxe
+11,human,human,np_10,alph_5,attn,4.0,a a a a
+11,human,human,np_10,alph_2,sort,8.0,nopqy
+12,human,human,np_5,alph_0,fix_alphabet,3.0,qznrs
+12,human,human,np_5,alph_6,pred,5.0,jlma
+12,human,human,np_5,alph_5,sort,4.0,zljmn
+12,human,human,np_5,alph_2,succ,5.0,jkln
+12,human,human,np_5,alph_1,remove_redundant,7.0,rmnlp
+12,human,human,np_5,alph_4,add_letter,2.0,eqpst
+12,human,human,np_5,alph_3,attn,6.0,a a a a
+12,human,human,np_20,alph_3,sort,5.0,ibsdf
+12,human,human,np_20,alph_6,add_letter,1.0,iqkcm
+12,human,human,np_20,alph_0,fix_alphabet,5.0,unoyq
+12,human,human,np_20,alph_1,attn,8.0,a a a a
+12,human,human,np_20,alph_4,succ,2.0,mntf
+12,human,human,np_20,alph_5,pred,7.0,ebnx
+12,human,human,np_20,alph_2,remove_redundant,6.0,bnfmp
+12,human,human,np_symb,symb_1,pred,4.0,$+)<
+12,human,human,np_symb,symb_0,succ,1.0,$)*=
+13,human,human,np_1,alph_1,pred,8.0,npqr
+13,human,human,np_1,alph_3,attn,6.0,aaaa
+13,human,human,np_1,alph_2,sort,1.0,?????
+13,human,human,np_1,alph_6,succ,8.0,jlmn
+13,human,human,np_1,alph_0,remove_redundant,3.0,stuvw
+13,human,human,np_1,alph_4,fix_alphabet,4.0,lmnop
+13,human,human,np_1,alph_5,add_letter,8.0,efghi
+13,human,human,np_10,alph_1,remove_redundant,0.0,phrsu
+13,human,human,np_10,alph_2,sort,1.0,drjkl
+13,human,human,np_10,alph_6,add_letter,2.0,absde
+13,human,human,np_10,alph_4,fix_alphabet,1.0,efaqi
+13,human,human,np_10,alph_0,pred,4.0,prst
+13,human,human,np_10,alph_5,attn,8.0,aaaa
+13,human,human,np_10,alph_3,succ,8.0,bdjn
+13,human,human,np_symb,symb_1,pred,6.0,<=*
+13,human,human,np_symb,symb_0,succ,8.0,)@=&
+14,human,human,np_2,alph_6,attn,4.0,a a a a
+14,human,human,np_2,alph_1,fix_alphabet,9.0,r s t u v
+14,human,human,np_2,alph_0,add_letter,2.0,e f g h i
+14,human,human,np_2,alph_3,sort,3.0,n o p y r
+14,human,human,np_2,alph_4,succ,9.0,u v w y
+14,human,human,np_2,alph_2,pred,4.0,v x y z
+14,human,human,np_2,alph_5,remove_redundant,6.0,c d e l g
+14,human,human,np_symb,symb_1,succ,0.0,+ ) < =
+14,human,human,np_symb,symb_0,pred,2.0,@ & < +
+14,human,human,np_1,alph_5,succ,7.0,g h i k
+14,human,human,np_1,alph_6,pred,8.0,p r s t
+14,human,human,np_1,alph_1,attn,0.0,a a a a
+14,human,human,np_1,alph_2,fix_alphabet,7.0,h i j k l
+14,human,human,np_1,alph_4,add_letter,1.0,n o p q r
+14,human,human,np_1,alph_3,sort,6.0,e f g h i
+14,human,human,np_1,alph_0,remove_redundant,4.0,r s t u v
+15,human,human,np_symb,symb_0,succ,1.0,$)*@
+15,human,human,np_symb,symb_1,pred,3.0,$!+)
+15,human,human,np_20,alph_6,succ,8.0,pjha
+15,human,human,np_20,alph_2,remove_redundant,5.0,mmphw
+15,human,human,np_20,alph_0,fix_alphabet,7.0,zbper
+15,human,human,np_20,alph_5,sort,9.0,nxjsz
+15,human,human,np_20,alph_3,add_letter,2.0,htcrl
+15,human,human,np_20,alph_4,pred,6.0,xmnt
+15,human,human,np_20,alph_1,attn,5.0,aaaa
+15,human,human,np_10,alph_5,succ,8.0,dbfr
+15,human,human,np_10,alph_0,add_letter,9.0,wvbxz
+15,human,human,np_10,alph_4,pred,4.0,eaqi
+15,human,human,np_10,alph_2,fix_alphabet,2.0,ystux
+15,human,human,np_10,alph_1,remove_redundant,1.0,hrsud
+15,human,human,np_10,alph_6,attn,3.0,aaaa
+15,human,human,np_10,alph_3,sort,5.0,amcpz
+16,human,human,np_20,alph_5,succ,9.0,uqvg
+16,human,human,np_20,alph_0,attn,3.0,aaaa
+16,human,human,np_20,alph_2,remove_redundant,1.0,atuvr
+16,human,human,np_20,alph_6,sort,8.0,vwzlo
+16,human,human,np_20,alph_4,pred,1.0,kiuv
+16,human,human,np_20,alph_1,fix_alphabet,7.0,abgzy
+16,human,human,np_20,alph_3,add_letter,1.0,sdfv
+16,human,human,np_symb,symb_1,pred,3.0,&$ ! +
+16,human,human,np_symb,symb_0,succ,8.0,) * @&
+16,human,human,np_5,alph_1,remove_redundant,0.0,stuvw
+16,human,human,np_5,alph_4,succ,8.0,noep
+16,human,human,np_5,alph_0,pred,9.0,bpur
+16,human,human,np_5,alph_3,add_letter,6.0,gcdef
+16,human,human,np_5,alph_5,attn,2.0,aaaa
+16,human,human,np_5,alph_2,fix_alphabet,4.0,anhpm
+16,human,human,np_5,alph_6,sort,1.0,ijrlm
+17,human,human,np_5,alph_2,pred,9.0,npmr
+17,human,human,np_5,alph_6,attn,0.0,aaaa
+17,human,human,np_5,alph_5,sort,6.0,yuxwv
+17,human,human,np_5,alph_3,fix_alphabet,3.0,vwxyb
+17,human,human,np_5,alph_1,succ,1.0,cdog
+17,human,human,np_5,alph_4,add_letter,5.0,abcdf
+17,human,human,np_5,alph_0,remove_redundant,0.0,ghijk
+17,human,human,np_symb,symb_0,succ,8.0,)*@&
+17,human,human,np_symb,symb_1,pred,0.0,+<@=
+17,human,human,np_2,alph_4,sort,0.0,fecdg
+17,human,human,np_2,alph_3,succ,9.0,lmnp
+17,human,human,np_2,alph_1,remove_redundant,7.0,ijkbm
+17,human,human,np_2,alph_6,add_letter,2.0,dmfgh
+17,human,human,np_2,alph_2,fix_alphabet,6.0,klmno
+17,human,human,np_2,alph_0,attn,5.0,aaaa
+17,human,human,np_2,alph_5,pred,4.0,jfmn
+18,human,human,np_symb,symb_1,succ,7.0,$!+<
+18,human,human,np_symb,symb_0,pred,2.0,@&<+
+18,human,human,np_5,alph_4,attn,6.0,aaaa
+18,human,human,np_5,alph_6,remove_redundant,8.0,ostuv
+18,human,human,np_5,alph_2,fix_alphabet,8.0,rstuv
+18,human,human,np_5,alph_3,sort,5.0,jihqf
+18,human,human,np_5,alph_0,succ,2.0,klmq
+18,human,human,np_5,alph_5,add_letter,5.0,bcdef
+18,human,human,np_5,alph_1,pred,0.0,cofg
+18,human,human,np_1,alph_1,pred,1.0,tvwx
+18,human,human,np_1,alph_4,succ,7.0,opqs
+18,human,human,np_1,alph_6,remove_redundant,6.0,lmnop
+18,human,human,np_1,alph_0,attn,1.0,aaaa
+18,human,human,np_1,alph_3,add_letter,8.0,stuvw
+18,human,human,np_1,alph_2,fix_alphabet,3.0,cdefg
+18,human,human,np_1,alph_5,sort,7.0,klmno
+19,human,human,np_1,alph_4,remove_redundant,1.0,tuvwx
+19,human,human,np_1,alph_0,sort,0.0,plnmo
+19,human,human,np_1,alph_1,attn,8.0,aaaa
+19,human,human,np_1,alph_3,succ,7.0,lmnp
+19,human,human,np_1,alph_5,pred,5.0,jlmn
+19,human,human,np_1,alph_2,fix_alphabet,1.0,lkyiy
+19,human,human,np_1,alph_6,add_letter,1.0,fghij
+19,human,human,np_symb,symb_0,pred,7.0,)@=&
+19,human,human,np_symb,symb_1,succ,1.0,&>$+
+19,human,human,np_10,alph_1,fix_alphabet,7.0,tjxpc
+19,human,human,np_10,alph_4,succ,4.0,hnsu
+19,human,human,np_10,alph_5,sort,0.0,eacdb
+19,human,human,np_10,alph_6,attn,6.0,aaaa
+19,human,human,np_10,alph_3,add_letter,8.0,jnolq
+19,human,human,np_10,alph_2,pred,3.0,txaw
+19,human,human,np_10,alph_0,remove_redundant,8.0,nkklm
+20,human,human,np_20,alph_3,pred,3.0,zhtc
+20,human,human,np_20,alph_1,sort,0.0,hwymz
+20,human,human,np_20,alph_2,succ,0.0,fmph
+20,human,human,np_20,alph_6,attn,7.0,aaaa
+20,human,human,np_20,alph_0,remove_redundant,4.0,unoyq
+20,human,human,np_20,alph_4,fix_alphabet,3.0,ntkfi
+20,human,human,np_20,alph_5,add_letter,4.0,mpduq
+20,human,human,np_symb,symb_0,succ,4.0,*@=<
+20,human,human,np_symb,symb_1,pred,9.0,&$!+
+20,human,human,np_5,alph_4,add_letter,3.0,jrlmn
+20,human,human,np_5,alph_5,pred,8.0,hjzl
+20,human,human,np_5,alph_3,sort,4.0,acedg
+20,human,human,np_5,alph_2,fix_alphabet,6.0,oijkl
+20,human,human,np_5,alph_0,succ,8.0,urso
+20,human,human,np_5,alph_1,attn,9.0,aaaa
+20,human,human,np_5,alph_6,remove_redundant,1.0,makpq
+21,human,human,np_5,alph_0,fix_alphabet,8.0,ancde
+21,human,human,np_5,alph_5,remove_redundant,2.0,ghkjz
+21,human,human,np_5,alph_6,succ,0.0,makq
+21,human,human,np_5,alph_3,pred,2.0,tvwx
+21,human,human,np_5,alph_4,sort,5.0,hijr
+21,human,human,np_5,alph_1,add_letter,6.0,pqxt
+21,human,human,np_5,alph_2,attn,6.0,aaaa
+21,human,human,np_20,alph_0,pred,2.0,mixv
+21,human,human,np_20,alph_6,succ,9.0,vwzo
+21,human,human,np_20,alph_4,fix_alphabet,5.0,tkfiu
+21,human,human,np_20,alph_5,add_letter,1.0,bnxjs
+21,human,human,np_20,alph_1,attn,2.0,aaaa
+21,human,human,np_20,alph_3,sort,1.0,fcvht
+21,human,human,np_20,alph_2,remove_redundant,1.0,atuvr
+21,human,human,np_symb,symb_0,pred,0.0,$)*@
+21,human,human,np_symb,symb_1,succ,1.0,&>$+
+22,human,human,np_symb,symb_0,succ,9.0,)*@&
+22,human,human,np_symb,symb_1,pred,9.0,&$!+
+22,human,human,np_5,alph_2,succ,2.0,hpms
+22,human,human,np_5,alph_5,attn,1.0,aaaa
+22,human,human,np_5,alph_0,pred,0.0,dfgh
+22,human,human,np_5,alph_1,remove_redundant,4.0,xstuv
+22,human,human,np_5,alph_6,fix_alphabet,1.0,jkpgo
+22,human,human,np_5,alph_4,add_letter,1.0,uvwxy
+22,human,human,np_5,alph_3,sort,3.0,vwxyb
+22,human,human,np_10,alph_1,sort,0.0,fgyio
+22,human,human,np_10,alph_2,fix_alphabet,7.0,pqyst
+22,human,human,np_10,alph_0,succ,0.0,vbxj
+22,human,human,np_10,alph_4,attn,1.0,aaaa
+22,human,human,np_10,alph_5,pred,2.0,mnhq
+22,human,human,np_10,alph_3,remove_redundant,1.0,lqrst
+22,human,human,np_10,alph_6,add_letter,0.0,qtyru
+23,human,human,np_10,alph_2,pred,9.0,qstu
+23,human,human,np_10,alph_6,add_letter,4.0,defgo
+23,human,human,np_10,alph_4,remove_redundant,7.0,tkzml
+23,human,human,np_10,alph_1,attn,4.0,aaaa
+23,human,human,np_10,alph_3,sort,9.0,cmzpf
+23,human,human,np_10,alph_0,succ,3.0,qcdo
+23,human,human,np_10,alph_5,fix_alphabet,9.0,acdbf
+23,human,human,np_symb,symb_0,succ,7.0,)*@&
+23,human,human,np_symb,symb_1,pred,8.0,>!+)
+23,human,human,np_2,alph_3,fix_alphabet,0.0,vwxaz
+23,human,human,np_2,alph_0,sort,5.0,wxtvb
+23,human,human,np_2,alph_1,remove_redundant,7.0,ijkbm
+23,human,human,np_2,alph_5,pred,4.0,jgmn
+23,human,human,np_2,alph_4,succ,8.0,pqrt
+23,human,human,np_2,alph_2,add_letter,0.0,wtuvs
+23,human,human,np_2,alph_6,attn,4.0,aaaa
+24,human,human,np_5,alph_3,attn,6.0,a a a a
+24,human,human,np_5,alph_6,pred,3.0,m k p q
+24,human,human,np_5,alph_1,remove_redundant,8.0,k m n l l
+24,human,human,np_5,alph_0,add_letter,0.0,g h i j k
+24,human,human,np_5,alph_5,fix_alphabet,9.0,j w x a i
+24,human,human,np_5,alph_4,succ,1.0,f k g i
+24,human,human,np_5,alph_2,sort,3.0,o g f j i
+24,human,human,np_symb,symb_0,pred,4.0,* = & <
+24,human,human,np_symb,symb_1,succ,7.0,$ ! + <
+24,human,human,np_2,alph_5,add_letter,3.0,k f m n o
+24,human,human,np_2,alph_2,sort,9.0,h g f j i
+24,human,human,np_2,alph_3,succ,5.0,s t u w
+24,human,human,np_2,alph_6,remove_redundant,4.0,b c c m f
+24,human,human,np_2,alph_0,pred,9.0,a c d e
+24,human,human,np_2,alph_1,attn,8.0,a a a a 
+24,human,human,np_2,alph_4,fix_alphabet,0.0,d e x g p
+25,human,human,np_symb,symb_0,succ,8.0,)*=&
+25,human,human,np_symb,symb_1,pred,2.0,>!+)
+25,human,human,np_10,alph_3,fix_alphabet,1.0,jnolq
+25,human,human,np_10,alph_5,pred,5.0,hlst
+25,human,human,np_10,alph_1,succ,5.0,sudw
+25,human,human,np_10,alph_4,sort,4.0,ophns
+25,human,human,np_10,alph_2,add_letter,8.0,mnopq
+25,human,human,np_10,alph_0,remove_redundant,6.0,lmufp
+25,human,human,np_10,alph_6,attn,9.0,aaaa
+25,human,human,np_20,alph_6,succ,1.0,hnad
+25,human,human,np_20,alph_0,add_letter,4.0,twmci
+25,human,human,np_20,alph_4,attn,3.0,aaaa
+25,human,human,np_20,alph_2,sort,3.0,ruvjx
+25,human,human,np_20,alph_5,pred,9.0,fnxj
+25,human,human,np_20,alph_1,remove_redundant,7.0,dtsje
+25,human,human,np_20,alph_3,fix_alphabet,5.0,xuqny
+26,human,human,np_2,alph_2,sort,2.0,kjlmn
+26,human,human,np_2,alph_5,succ,0.0,kjfn
+26,human,human,np_2,alph_0,pred,9.0,acde
+26,human,human,np_2,alph_6,fix_alphabet,0.0,ghijk
+26,human,human,np_2,alph_1,remove_redundant,9.0,ghijk
+26,human,human,np_2,alph_3,attn,3.0,aaaa
+26,human,human,np_2,alph_4,add_letter,9.0,abfde
+26,human,human,np_1,alph_1,add_letter,1.0,ijklm
+26,human,human,np_1,alph_5,pred,8.0,gijk
+26,human,human,np_1,alph_2,remove_redundant,9.0,mnopq
+26,human,human,np_1,alph_4,sort,1.0,khgji
+26,human,human,np_1,alph_3,fix_alphabet,2.0,defgh
+26,human,human,np_1,alph_6,succ,9.0,stuw
+26,human,human,np_1,alph_0,attn,3.0,aaaa
+26,human,human,np_symb,symb_0,succ,6.0,@=&+
+26,human,human,np_symb,symb_1,pred,9.0,&$!+
+27,human,human,np_1,alph_3,sort,8.0,mnopq
+27,human,human,np_1,alph_5,succ,8.0,bcdf
+27,human,human,np_1,alph_1,fix_alphabet,0.0,ijklm
+27,human,human,np_1,alph_6,add_letter,9.0,efghi
+27,human,human,np_1,alph_4,pred,2.0,tvwx
+27,human,human,np_1,alph_0,remove_redundant,5.0,ghijk
+27,human,human,np_1,alph_2,attn,5.0,aaaa
+27,human,human,np_symb,symb_1,pred,3.0,&$!+
+27,human,human,np_symb,symb_0,succ,0.0,)*@&
+27,human,human,np_2,alph_1,pred,1.0,acde
+27,human,human,np_2,alph_6,add_letter,8.0,fghij
+27,human,human,np_2,alph_5,attn,3.0,aaaa
+27,human,human,np_2,alph_3,succ,2.0,rstv
+27,human,human,np_2,alph_0,fix_alphabet,2.0,a u c d e
+27,human,human,np_2,alph_2,remove_redundant,6.0,uvsxy
+27,human,human,np_2,alph_4,sort,1.0,bfdec
+28,human,human,np_20,alph_4,pred,2.0,ajgx
+28,human,human,np_20,alph_0,succ,8.0,rstm
+28,human,human,np_20,alph_6,attn,0.0,aaaa
+28,human,human,np_20,alph_1,remove_redundant,8.0,mhirk
+28,human,human,np_20,alph_5,fix_alphabet,0.0,ytefb
+28,human,human,np_20,alph_3,sort,4.0,xmjwp
+28,human,human,np_20,alph_2,add_letter,0.0,atuvr
+28,human,human,np_symb,symb_1,succ,9.0,!+)@
+28,human,human,np_symb,symb_0,pred,6.0,)@=&
+28,human,human,np_10,alph_1,pred,6.0,ktnx
+28,human,human,np_10,alph_4,fix_alphabet,1.0,efaqi
+28,human,human,np_10,alph_3,succ,7.0,hibk
+28,human,human,np_10,alph_5,add_letter,3.0,tuvox
+28,human,human,np_10,alph_6,remove_redundant,8.0,qtyru
+28,human,human,np_10,alph_0,sort,8.0,tbvxw
+28,human,human,np_10,alph_2,attn,5.0,aaaa
+29,human,human,np_2,alph_5,fix_alphabet,1.0,tjklm
+29,human,human,np_2,alph_2,add_letter,5.0,qrwtu
+29,human,human,np_2,alph_4,remove_redundant,1.0,bfdec
+29,human,human,np_2,alph_6,pred,0.0,cmfg
+29,human,human,np_2,alph_1,succ,5.0,alce
+29,human,human,np_2,alph_0,attn,1.0,a a a a
+29,human,human,np_2,alph_3,sort,6.0,fihgk
+29,human,human,np_20,alph_1,attn,8.0,a a a a
+29,human,human,np_20,alph_5,add_letter,1.0,bnxjs
+29,human,human,np_20,alph_0,sort,9.0,qlgfj
+29,human,human,np_20,alph_6,fix_alphabet,2.0,cmtdr
+29,human,human,np_20,alph_4,succ,2.0,mntf
+29,human,human,np_20,alph_2,remove_redundant,2.0,vrxjz
+29,human,human,np_20,alph_3,pred,3.0,zhtc
+29,human,human,np_symb,symb_0,succ,5.0,=&<!
+29,human,human,np_symb,symb_1,pred,3.0,&$!+
+30,human,human,np_10,alph_4,succ,5.0,nsjv
+30,human,human,np_10,alph_5,add_letter,6.0,grijk
+30,human,human,np_10,alph_1,remove_redundant,8.0,vwmjz
+30,human,human,np_10,alph_2,sort,0.0,qystu
+30,human,human,np_10,alph_6,pred,3.0,dfgo
+30,human,human,np_10,alph_0,fix_alphabet,0.0,ghink
+30,human,human,np_10,alph_3,attn,7.0,aaaa
+30,human,human,np_2,alph_2,remove_redundant,2.0,tuvsx
+30,human,human,np_2,alph_5,pred,7.0,tvwx
+30,human,human,np_2,alph_4,add_letter,7.0,abfde
+30,human,human,np_2,alph_1,fix_alphabet,7.0,alcde
+30,human,human,np_2,alph_6,succ,6.0,abcm
+30,human,human,np_2,alph_0,attn,8.0,aaaa
+30,human,human,np_2,alph_3,sort,5.0,vwxqz
+30,human,human,np_symb,symb_0,succ,6.0,@=&+
+30,human,human,np_symb,symb_1,pred,7.0,&$!+
+31,human,human,np_1,alph_1,add_letter,2.0,nopqr
+31,human,human,np_1,alph_0,sort,9.0,klmno
+31,human,human,np_1,alph_6,fix_alphabet,5.0,stuv
+31,human,human,np_1,alph_4,pred,1.0,bdef
+31,human,human,np_1,alph_3,succ,2.0,fghj
+31,human,human,np_1,alph_2,attn,5.0,aaaa
+31,human,human,np_1,alph_5,remove_redundant,8.0,lmnop
+31,human,human,np_10,alph_2,add_letter,9.0,uxawi
+31,human,human,np_10,alph_5,remove_redundant,5.0,acdbf
+31,human,human,np_10,alph_3,succ,7.0,hibk
+31,human,human,np_10,alph_0,pred,2.0,wbxz
+31,human,human,np_10,alph_1,fix_alphabet,6.0,udvwm
+31,human,human,np_10,alph_4,attn,6.0,aaaa
+31,human,human,np_10,alph_6,sort,1.0,fgoij
+31,human,human,np_symb,symb_1,succ,6.0,>$!)
+31,human,human,np_symb,symb_0,pred,0.0,$*@=
+32,human,human,np_20,alph_5,sort,9.0,nxjsz
+32,human,human,np_20,alph_6,remove_redundant,5.0,jhnau
+32,human,human,np_20,alph_4,attn,7.0,aaaa
+32,human,human,np_20,alph_0,fix_alphabet,9.0,zbper
+32,human,human,np_20,alph_3,pred,3.0,zhtc
+32,human,human,np_20,alph_1,succ,9.0,abgy
+32,human,human,np_20,alph_2,add_letter,6.0,edlys
+32,human,human,np_10,alph_1,sort,2.0,fgyio
+32,human,human,np_10,alph_5,pred,7.0,mnhq
+32,human,human,np_10,alph_4,attn,6.0,aaaa
+32,human,human,np_10,alph_2,fix_alphabet,7.0,pqyst
+32,human,human,np_10,alph_0,remove_redundant,6.0,lmufp
+32,human,human,np_10,alph_6,succ,9.0,goik
+32,human,human,np_10,alph_3,add_letter,5.0,stuvw
+32,human,human,np_symb,symb_0,succ,1.0,$)*=
+32,human,human,np_symb,symb_1,pred,4.0,$!+)
+33,human,human,np_20,alph_3,pred,8.0,qyak
+33,human,human,np_20,alph_1,remove_redundant,9.0,vpnxz
+33,human,human,np_20,alph_2,succ,7.0,bnfp
+33,human,human,np_20,alph_6,sort,0.0,brgye
+33,human,human,np_20,alph_5,attn,6.0,aaaa
+33,human,human,np_20,alph_0,add_letter,8.0,stwmc
+33,human,human,np_20,alph_4,fix_alphabet,2.0,dizby
+33,human,human,np_symb,symb_1,pred,6.0,)@=*
+33,human,human,np_symb,symb_0,succ,5.0,=&<!
+33,human,human,np_10,alph_6,remove_redundant,6.0,xnhpq
+33,human,human,np_10,alph_1,add_letter,6.0,hrsud
+33,human,human,np_10,alph_2,pred,7.0,mopq
+33,human,human,np_10,alph_0,sort,5.0,btvwx
+33,human,human,np_10,alph_4,succ,0.0,zmlp
+33,human,human,np_10,alph_5,attn,5.0,aaaa
+33,human,human,np_10,alph_3,fix_alphabet,7.0,dtjnq
+34,human,human,np_symb,symb_0,succ,4.0,*@=&
+34,human,human,np_symb,symb_1,pred,1.0,&$+<
+34,human,human,np_5,alph_4,fix_alphabet,4.0,dfkg
+34,human,human,np_5,alph_1,add_letter,1.0,mnlpq
+34,human,human,np_5,alph_2,succ,9.0,fgoj
+34,human,human,np_5,alph_6,pred,0.0,hjrl
+34,human,human,np_5,alph_3,remove_redundant,4.0,defqh
+34,human,human,np_5,alph_5,attn,5.0,aaaa
+34,human,human,np_5,alph_0,sort,7.0,anecd
+34,human,human,np_10,alph_2,add_letter,4.0,xawiz
+34,human,human,np_10,alph_4,succ,0.0,zmlp
+34,human,human,np_10,alph_1,pred,5.0,ddvw
+34,human,human,np_10,alph_3,attn,4.0,aaaa
+34,human,human,np_10,alph_6,fix_alphabet,2.0,vwlfx
+34,human,human,np_10,alph_0,sort,1.0,vxzkh
+34,human,human,np_10,alph_5,remove_redundant,2.0,rtkcv
+35,human,human,np_10,alph_2,remove_redundant,6.0,pqys
+35,human,human,np_10,alph_1,succ,9.0,LTNX
+35,human,human,np_10,alph_3,pred,0.0,bdkj
+35,human,human,np_10,alph_6,add_letter,6.0,vwlmz
+35,human,human,np_10,alph_4,attn,1.0,aaaa
+35,human,human,np_10,alph_0,fix_alphabet,3.0,nklm
+35,human,human,np_10,alph_5,sort,3.0,bfgri
+35,human,human,np_2,alph_4,fix_alphabet,6.0,q r s t
+35,human,human,np_2,alph_2,add_letter,4.0, h i j k l 
+35,human,human,np_2,alph_5,remove_redundant,9.0,mnopr
+35,human,human,np_2,alph_6,attn,4.0,aaaa
+35,human,human,np_2,alph_1,pred,4.0,ijkm
+35,human,human,np_2,alph_3,succ,6.0,stuw
+35,human,human,np_2,alph_0,sort,7.0,audccf
+35,human,human,np_symb,symb_1,succ,2.0,>$!)
+35,human,human,np_symb,symb_0,pred,8.0,)*@&
+36,human,human,np_10,alph_4,sort,6.0,olmhp
+36,human,human,np_10,alph_0,fix_alphabet,1.0,dvqxz
+36,human,human,np_10,alph_3,pred,2.0,acpz
+36,human,human,np_10,alph_1,add_letter,6.0,hrsud
+36,human,human,np_10,alph_5,attn,7.0,aaaa
+36,human,human,np_10,alph_6,remove_redundant,3.0,absdde
+36,human,human,np_10,alph_2,succ,6.0,uxai
+36,human,human,np_20,alph_3,pred,1.0,roge
+36,human,human,np_20,alph_4,add_letter,7.0,cdezb
+36,human,human,np_20,alph_6,succ,5.0,xpjn
+36,human,human,np_20,alph_0,fix_alphabet,7.0,zbper
+36,human,human,np_20,alph_1,sort,9.0,vpnxq
+36,human,human,np_20,alph_5,remove_redundant,9.0,aryte
+36,human,human,np_20,alph_2,attn,0.0,aaaa
+36,human,human,np_symb,symb_0,succ,2.0,=&<!
+36,human,human,np_symb,symb_1,pred,3.0,&!+)
+37,human,human,np_symb,symb_1,succ,6.0,> $ ! )
+37,human,human,np_symb,symb_0,pred,9.0,@& < +
+37,human,human,np_1,alph_4,pred,2.0,t v w x
+37,human,human,np_1,alph_6,fix_alphabet,4.0,v i x y j
+37,human,human,np_1,alph_0,add_letter,3.0,uvwxy
+37,human,human,np_1,alph_5,remove_redundant,0.0,lmnno
+37,human,human,np_1,alph_3,attn,1.0,aaaa
+37,human,human,np_1,alph_2,succ,8.0,ghik
+37,human,human,np_1,alph_1,sort,4.0,vwxyz
+37,human,human,np_5,alph_2,sort,6.0,bqdce
+37,human,human,np_5,alph_6,add_letter,1.0,stuvw
+37,human,human,np_5,alph_1,fix_alphabet,0.0,qbczo
+37,human,human,np_5,alph_0,succ,1.0,purt
+37,human,human,np_5,alph_3,remove_redundant,4.0,defqh
+37,human,human,np_5,alph_4,attn,6.0,aaaa
+37,human,human,np_5,alph_5,pred,5.0,uwxv
+38,human,human,np_2,alph_2,sort,7.0,hijkl
+38,human,human,np_2,alph_6,succ,7.0,lenp
+38,human,human,np_2,alph_0,attn,2.0,aaaa
+38,human,human,np_2,alph_4,add_letter,5.0,abfde
+38,human,human,np_2,alph_5,fix_alphabet,7.0,delgh
+38,human,human,np_2,alph_3,remove_redundant,4.0,hijkl
+38,human,human,np_2,alph_1,pred,7.0,uwxy
+38,human,human,np_20,alph_2,remove_redundant,9.0,bnfmp
+38,human,human,np_20,alph_5,succ,3.0,mpdq
+38,human,human,np_20,alph_6,pred,3.0,srgy
+38,human,human,np_20,alph_1,sort,4.0,fluvp
+38,human,human,np_20,alph_4,add_letter,4.0,vqyrl
+38,human,human,np_20,alph_3,fix_alphabet,3.0,qnyak
+38,human,human,np_20,alph_0,attn,6.0,aaaa
+38,human,human,np_symb,symb_0,succ,2.0,=&+
+38,human,human,np_symb,symb_1,pred,5.0,!)<@
+39,human,human,np_20,alph_4,remove_redundant,0.0,pcdez
+39,human,human,np_20,alph_0,succ,6.0,noq
+39,human,human,np_20,alph_6,sort,1.0,diqkc
+39,human,human,np_20,alph_2,fix_alphabet,7.0,ysock
+39,human,human,np_20,alph_3,attn,8.0,a a a a
+39,human,human,np_20,alph_1,pred,8.0,whir
+39,human,human,np_20,alph_5,add_letter,9.0,efbnx
+39,human,human,np_10,alph_3,sort,8.0,tlsrq
+39,human,human,np_10,alph_0,remove_redundant,6.0,lmufp
+39,human,human,np_10,alph_5,attn,6.0,a a a a
+39,human,human,np_10,alph_1,add_letter,8.0,vwmjz
+39,human,human,np_10,alph_6,pred,5.0,dfgo
+39,human,human,np_10,alph_2,succ,7.0,xawz
+39,human,human,np_10,alph_4,fix_alphabet,5.0,hnsju
+39,human,human,np_symb,symb_1,succ,4.0,@=*
+39,human,human,np_symb,symb_0,pred,9.0,=&<+
+40,human,human,np_5,alph_2,remove_redundant,4.0,ddefg
+40,human,human,np_5,alph_1,fix_alphabet,4.0,qxstu
+40,human,human,np_5,alph_4,sort,7.0,noeqp
+40,human,human,np_5,alph_5,add_letter,0.0,opqrs
+40,human,human,np_5,alph_0,attn,9.0,a a a a
+40,human,human,np_5,alph_6,succ,8.0,fghj
+40,human,human,np_5,alph_3,pred,6.0,dfqh
+40,human,human,np_10,alph_6,succ,3.0,vwlz
+40,human,human,np_10,alph_4,attn,3.0,a a a a
+40,human,human,np_10,alph_0,pred,0.0,dogh
+40,human,human,np_10,alph_2,remove_redundant,8.0,klmno
+40,human,human,np_10,alph_1,sort,7.0,nktlo
+40,human,human,np_10,alph_5,add_letter,4.0,stuvo
+40,human,human,np_10,alph_3,fix_alphabet,1.0,jnolq
+40,human,human,np_symb,symb_1,pred,5.0,+ < @ =
+40,human,human,np_symb,symb_0,succ,9.0,> $ ) @
+41,human,human,np_symb,symb_0,pred,6.0,<=@*
+41,human,human,np_symb,symb_1,succ,8.0,$!+<
+41,human,human,np_2,alph_6,succ,7.0,lenp
+41,human,human,np_2,alph_0,remove_redundant,0.0,qrstt
+41,human,human,np_2,alph_3,sort,1.0,dgfhe
+41,human,human,np_2,alph_2,fix_alphabet,7.0,vsooz
+41,human,human,np_2,alph_1,add_letter,1.0,kbnmk
+41,human,human,np_2,alph_4,pred,1.0,cmno
+41,human,human,np_2,alph_5,attn,1.0,aaaa
+41,human,human,np_10,alph_5,succ,5.0,pnhs
+41,human,human,np_10,alph_4,fix_alphabet,1.0,efdci
+41,human,human,np_10,alph_1,remove_redundant,9.0,kltnn
+41,human,human,np_10,alph_3,pred,5.0,vxey
+41,human,human,np_10,alph_2,attn,4.0,aaaa
+41,human,human,np_10,alph_6,sort,5.0,fsdbe
+41,human,human,np_10,alph_0,add_letter,1.0,ghink
+42,human,human,np_symb,symb_0,pred,5.0,)@ = &
+42,human,human,np_symb,symb_1,succ,5.0,)<@*
+42,human,human,np_10,alph_1,attn,9.0,aaaa
+42,human,human,np_10,alph_5,add_letter,6.0,grijk
+42,human,human,np_10,alph_6,remove_redundant,3.0,absde
+42,human,human,np_10,alph_3,succ,3.0,tuvx
+42,human,human,np_10,alph_0,sort,8.0,tbvxw
+42,human,human,np_10,alph_4,fix_alphabet,4.0,xhnsg
+42,human,human,np_10,alph_2,pred,3.0,txaw
+42,human,human,np_2,alph_2,sort,4.0,vwuts
+42,human,human,np_2,alph_0,fix_alphabet,3.0,mnopq
+42,human,human,np_2,alph_6,succ,1.0,dmfh
+42,human,human,np_2,alph_1,pred,3.0,prst
+42,human,human,np_2,alph_3,add_letter,4.0,opyrs
+42,human,human,np_2,alph_5,attn,0.0,aaaa
+42,human,human,np_2,alph_4,remove_redundant,5.0,fdecg
+43,human,human,np_20,alph_3,succ,5.0,logp
+43,human,human,np_20,alph_5,sort,3.0,psjmz
+43,human,human,np_20,alph_2,pred,7.0,bfmp
+43,human,human,np_20,alph_6,remove_redundant,5.0,jhnau
+43,human,human,np_20,alph_1,attn,4.0,aaaa
+43,human,human,np_20,alph_4,add_letter,1.0,asjgx
+43,human,human,np_20,alph_0,fix_alphabet,1.0,khazb
+43,human,human,np_symb,symb_0,pred,3.0,*=&<
+43,human,human,np_symb,symb_1,succ,3.0,+)<=
+43,human,human,np_1,alph_1,add_letter,9.0,tuvwx
+43,human,human,np_1,alph_0,attn,1.0,aaaa
+43,human,human,np_1,alph_3,succ,5.0,stuw
+43,human,human,np_1,alph_2,sort,6.0,uvtwx
+43,human,human,np_1,alph_6,pred,9.0,vxyz
+43,human,human,np_1,alph_4,fix_alphabet,2.0,eirkl
+43,human,human,np_1,alph_5,remove_redundant,4.0,cdefg
+44,human,human,np_1,alph_6,sort,4.0,mnopq
+44,human,human,np_1,alph_2,add_letter,4.0,fghij
+44,human,human,np_1,alph_1,remove_redundant,2.0,klmno
+44,human,human,np_1,alph_0,pred,9.0,bdef
+44,human,human,np_1,alph_3,succ,5.0,stuw
+44,human,human,np_1,alph_4,fix_alphabet,1.0,mnopq
+44,human,human,np_1,alph_5,attn,8.0,aaaa
+44,human,human,np_symb,symb_0,succ,8.0,)*@&
+44,human,human,np_symb,symb_1,pred,0.0,<@=*
+44,human,human,np_20,alph_6,add_letter,1.0,iqkcm
+44,human,human,np_20,alph_3,remove_redundant,9.0,vhtcr
+44,human,human,np_20,alph_1,fix_alphabet,8.0,jeofl
+44,human,human,np_20,alph_2,sort,5.0,ockat
+44,human,human,np_20,alph_4,succ,0.0,kfiv
+44,human,human,np_20,alph_5,pred,3.0,zpdu
+44,human,human,np_20,alph_0,attn,0.0,aaaa
+45,human,human,np_5,alph_3,fix_alphabet,2.0,hiykl 
+45,human,human,np_5,alph_6,succ,3.0,tuvx 
+45,human,human,np_5,alph_2,pred,7.0,ijka 
+45,human,human,np_5,alph_4,sort,2.0,qpste 
+45,human,human,np_5,alph_5,add_letter,3.0,mnopq 
+45,human,human,np_5,alph_1,remove_redundant,2.0,jkrmn 
+45,human,human,np_5,alph_0,attn,0.0,aaaa
+45,human,human,np_1,alph_0,sort,5.0,uvwxy
+45,human,human,np_1,alph_4,remove_redundant,8.0,abcde
+45,human,human,np_1,alph_2,pred,6.0,dfgh 
+45,human,human,np_1,alph_6,succ,6.0,uvwy 
+45,human,human,np_1,alph_3,add_letter,4.0,jklmn 
+45,human,human,np_1,alph_5,fix_alphabet,0.0,fghij 
+45,human,human,np_1,alph_1,attn,0.0,aaaa
+45,human,human,np_symb,symb_1,pred,8.0,>!+)
+45,human,human,np_symb,symb_0,succ,8.0,)*@&
+46,human,human,np_1,alph_4,sort,6.0,mnopq
+46,human,human,np_1,alph_6,add_letter,1.0,fghij
+46,human,human,np_1,alph_0,remove_redundant,0.0,pqrst
+46,human,human,np_1,alph_2,succ,3.0,jkln
+46,human,human,np_1,alph_5,fix_alphabet,3.0,jklmn
+46,human,human,np_1,alph_3,pred,2.0,jlmn
+46,human,human,np_1,alph_1,attn,6.0,a a a a
+46,human,human,np_10,alph_6,fix_alphabet,2.0,vwlmz
+46,human,human,np_10,alph_5,succ,7.0,uvoy
+46,human,human,np_10,alph_2,pred,0.0,grjk
+46,human,human,np_10,alph_0,remove_redundant,9.0,lmufp
+46,human,human,np_10,alph_1,add_letter,2.0,bcqef
+46,human,human,np_10,alph_4,sort,6.0,mloph
+46,human,human,np_10,alph_3,attn,0.0,a a a a
+46,human,human,np_symb,symb_1,succ,8.0,$!+)
+46,human,human,np_symb,symb_0,pred,8.0,$*@=
+47,human,human,np_20,alph_3,attn,1.0,aaaa
+47,human,human,np_20,alph_6,add_letter,1.0,iqkcm
+47,human,human,np_20,alph_5,sort,0.0,szmpd
+47,human,human,np_20,alph_1,fix_alphabet,4.0,bgzyw
+47,human,human,np_20,alph_2,remove_redundant,1.0,atuvr
+47,human,human,np_20,alph_0,pred,9.0,nyql
+47,human,human,np_20,alph_4,succ,6.0,ntki
+47,human,human,np_symb,symb_0,pred,8.0,$*@=
+47,human,human,np_symb,symb_1,succ,2.0,>$!)
+47,human,human,np_5,alph_4,sort,8.0,eqpst
+47,human,human,np_5,alph_5,pred,9.0,yxvi
+47,human,human,np_5,alph_0,succ,7.0,ance
+47,human,human,np_5,alph_1,attn,1.0,aaaa
+47,human,human,np_5,alph_3,add_letter,9.0,mzopn
+47,human,human,np_5,alph_2,fix_alphabet,0.0,defgo
+47,human,human,np_5,alph_6,remove_redundant,4.0,ghijr
+48,human,human,np_2,alph_5,attn,5.0,aaaa
+48,human,human,np_2,alph_4,remove_redundant,7.0,nopqr
+48,human,human,np_2,alph_2,fix_alphabet,2.0,wtuvs
+48,human,human,np_2,alph_0,pred,0.0,jlmn
+48,human,human,np_2,alph_3,succ,9.0,lmnp
+48,human,human,np_2,alph_1,add_letter,5.0,ijkbm
+48,human,human,np_2,alph_6,sort,4.0,mgcdg
+48,human,human,np_symb,symb_0,succ,7.0,)*@&
+48,human,human,np_symb,symb_1,pred,9.0,&$!+
+48,human,human,np_10,alph_0,sort,5.0,twvbx
+48,human,human,np_10,alph_2,remove_redundant,1.0,pqyst
+48,human,human,np_10,alph_1,pred,8.0,qfgy
+48,human,human,np_10,alph_3,add_letter,9.0,uvwxe
+48,human,human,np_10,alph_6,fix_alphabet,2.0,uwlmx
+48,human,human,np_10,alph_4,succ,0.0,zmlp
+48,human,human,np_10,alph_5,attn,1.0,aaaa
+49,human,human,np_2,alph_1,remove_redundant,5.0,jkbmn
+49,human,human,np_2,alph_0,add_letter,5.0,bvwxy
+49,human,human,np_2,alph_2,fix_alphabet,5.0,rtyuv
+49,human,human,np_2,alph_5,attn,4.0,aaaa
+49,human,human,np_2,alph_3,succ,0.0,cdeg
+49,human,human,np_2,alph_4,pred,1.0,kmno
+49,human,human,np_2,alph_6,sort,7.0,oepln
+49,human,human,np_5,alph_2,add_letter,4.0,defgo
+49,human,human,np_5,alph_0,sort,8.0,stwov
+49,human,human,np_5,alph_6,pred,8.0,jlma
+49,human,human,np_5,alph_3,remove_redundant,6.0,uvwxy
+49,human,human,np_5,alph_4,attn,4.0,aaaa
+49,human,human,np_5,alph_5,succ,3.0,mnoq
+49,human,human,np_5,alph_1,fix_alphabet,7.0,dofgh
+49,human,human,np_symb,symb_1,succ,8.0,$!+<
+49,human,human,np_symb,symb_0,pred,5.0,)@=&
+50,human,human,np_symb,symb_0,pred,6.0,)@=&
+50,human,human,np_symb,symb_1,succ,8.0,$!+<
+50,human,human,np_1,alph_0,add_letter,1.0,jklmn
+50,human,human,np_1,alph_2,attn,3.0,aaaa
+50,human,human,np_1,alph_3,pred,5.0,mopq
+50,human,human,np_1,alph_1,fix_alphabet,1.0,cdefg
+50,human,human,np_1,alph_5,succ,5.0,defh
+50,human,human,np_1,alph_6,remove_redundant,4.0,qrstu
+50,human,human,np_1,alph_4,sort,8.0,hijkl
+50,human,human,np_20,alph_0,fix_alphabet,1.0,kxazp
+50,human,human,np_20,alph_2,succ,8.0,dlyo
+50,human,human,np_20,alph_1,remove_redundant,0.0,eoflu
+50,human,human,np_20,alph_5,attn,8.0,aaaa
+50,human,human,np_20,alph_3,pred,0.0,zhtc
+50,human,human,np_20,alph_4,sort,7.0,omntk
+50,human,human,np_20,alph_6,add_letter,2.0,tfsbr
+51,human,human,np_symb,symb_0,succ,5.0,=&<!
+51,human,human,np_symb,symb_1,pred,2.0,>!+)
+51,human,human,np_5,alph_1,fix_alphabet,3.0,mvlpd
+51,human,human,np_5,alph_6,remove_redundant,7.0,csefg
+51,human,human,np_5,alph_2,sort,9.0,fgoij
+51,human,human,np_5,alph_0,add_letter,5.0,jklmb
+51,human,human,np_5,alph_3,succ,0.0,tuvx
+51,human,human,np_5,alph_4,pred,2.0,lnoe
+51,human,human,np_5,alph_5,attn,6.0,aaaa
+51,human,human,np_10,alph_3,sort,6.0,lqrst
+51,human,human,np_10,alph_6,succ,8.0,yruw
+51,human,human,np_10,alph_0,pred,3.0,vxzj
+51,human,human,np_10,alph_5,attn,2.0,aaaa
+51,human,human,np_10,alph_4,fix_alphabet,1.0,efzci
+51,human,human,np_10,alph_1,remove_redundant,7.0,rsuud
+51,human,human,np_10,alph_2,add_letter,6.0,mnopq
+52,human,human,np_2,alph_1,add_letter,5.0,ijkbm
+52,human,human,np_2,alph_4,sort,2.0,ijkl
+52,human,human,np_2,alph_5,fix_alphabet,9.0,jkfmn
+52,human,human,np_2,alph_2,pred,9.0,fhij
+52,human,human,np_2,alph_3,succ,9.0,lmnp
+52,human,human,np_2,alph_0,remove_redundant,8.0,aucde
+52,human,human,np_2,alph_6,attn,8.0,aaaa
+52,human,human,np_20,alph_6,succ,8.0,pjha
+52,human,human,np_20,alph_1,attn,9.0,aaaa
+52,human,human,np_20,alph_4,sort,9.0,cpwed
+52,human,human,np_20,alph_2,remove_redundant,5.0,mpghw
+52,human,human,np_20,alph_5,fix_alphabet,3.0,ytefb
+52,human,human,np_20,alph_3,add_letter,0.0,qnyak
+52,human,human,np_20,alph_0,pred,0.0,jkha
+52,human,human,np_symb,symb_0,pred,2.0,@&<+
+52,human,human,np_symb,symb_1,succ,3.0,+)<=
+53,human,human,np_2,alph_5,add_letter,1.0,delgh
+53,human,human,np_2,alph_2,attn,5.0,aaaa
+53,human,human,np_2,alph_0,remove_redundant,2.0,nopqr
+53,human,human,np_2,alph_6,fix_alphabet,4.0,dmfgh
+53,human,human,np_2,alph_4,sort,6.0,qrstu
+53,human,human,np_2,alph_1,succ,0.0,ijkm
+53,human,human,np_2,alph_3,pred,4.0,vwqz
+53,human,human,np_symb,symb_1,pred,7.0,&$!+
+53,human,human,np_symb,symb_0,succ,1.0,$)*=
+53,human,human,np_1,alph_3,pred,6.0,prst
+53,human,human,np_1,alph_1,remove_redundant,7.0,fghij
+53,human,human,np_1,alph_4,succ,9.0,cdeg
+53,human,human,np_1,alph_5,attn,9.0,aaaa
+53,human,human,np_1,alph_6,sort,8.0,stuvw
+53,human,human,np_1,alph_0,fix_alphabet,0.0,bcdef
+53,human,human,np_1,alph_2,add_letter,3.0,nopqr
+54,human,human,np_symb,symb_1,succ,3.0,+)<=
+54,human,human,np_symb,symb_0,pred,9.0, @ & < +
+54,human,human,np_1,alph_2,sort,0.0,ghijk
+54,human,human,np_1,alph_0,fix_alphabet,1.0,cdefg
+54,human,human,np_1,alph_3,succ,2.0,fghj
+54,human,human,np_1,alph_6,pred,0.0,cefg
+54,human,human,np_1,alph_1,attn,4.0,nopr
+54,human,human,np_1,alph_5,remove_redundant,2.0,efghi
+54,human,human,np_1,alph_4,add_letter,5.0,hijkl
+54,human,human,np_2,alph_0,sort,8.0, t b v w x 
+54,human,human,np_2,alph_5,remove_redundant,1.0,delgh
+54,human,human,np_2,alph_3,attn,0.0,a a a a
+54,human,human,np_2,alph_6,fix_alphabet,1.0,a b c d m
+54,human,human,np_2,alph_4,add_letter,2.0, b f d e c
+54,human,human,np_2,alph_2,pred,4.0,v x y z
+54,human,human,np_2,alph_1,succ,4.0,t u v x
+55,human,human,np_1,alph_0,sort,3.0,tuvwx
+55,human,human,np_1,alph_3,add_letter,7.0,tuvwx
+55,human,human,np_1,alph_1,remove_redundant,3.0,cdefg
+55,human,human,np_1,alph_4,succ,1.0,ghik
+55,human,human,np_1,alph_6,pred,6.0,eghi
+55,human,human,np_1,alph_2,fix_alphabet,6.0,pqrst
+55,human,human,np_1,alph_5,attn,3.0,aaaa
+55,human,human,np_10,alph_4,fix_alphabet,0.0,vwxyr
+55,human,human,np_10,alph_2,add_letter,7.0,bvhef
+55,human,human,np_10,alph_0,succ,7.0,aqce
+55,human,human,np_10,alph_5,sort,3.0,becda
+55,human,human,np_10,alph_3,attn,2.0,aaaa
+55,human,human,np_10,alph_1,remove_redundant,4.0,fgyio
+55,human,human,np_10,alph_6,pred,5.0,dfgo
+55,human,human,np_symb,symb_1,succ,3.0,+)<=
+55,human,human,np_symb,symb_0,pred,8.0,$*@=
+56,human,human,np_1,alph_1,remove_redundant,3.0,efghi
+56,human,human,np_1,alph_6,succ,8.0,jkln
+56,human,human,np_1,alph_3,pred,4.0,uwxy
+56,human,human,np_1,alph_0,add_letter,1.0,jklmn
+56,human,human,np_1,alph_4,sort,2.0,abcde
+56,human,human,np_1,alph_2,attn,5.0,aaaa
+56,human,human,np_1,alph_5,fix_alphabet,2.0,qrstu
+56,human,human,np_symb,symb_0,pred,7.0,)@=&
+56,human,human,np_symb,symb_1,succ,9.0,!+)@
+56,human,human,np_10,alph_3,attn,0.0,aaaa
+56,human,human,np_10,alph_5,sort,8.0,acdbf
+56,human,human,np_10,alph_4,fix_alphabet,1.0,efaqi
+56,human,human,np_10,alph_2,succ,8.0,lmnp
+56,human,human,np_10,alph_0,pred,8.0,lufp
+56,human,human,np_10,alph_6,remove_redundant,8.0,qtyru
+56,human,human,np_10,alph_1,add_letter,2.0,bcqef
+57,human,human,np_10,alph_2,succ,4.0,bvhf
+57,human,human,np_10,alph_6,add_letter,0.0,qtyru
+57,human,human,np_10,alph_0,fix_alphabet,7.0,fpyrs
+57,human,human,np_10,alph_4,remove_redundant,8.0,sjuvw
+57,human,human,np_10,alph_1,pred,2.0,yokl
+57,human,human,np_10,alph_3,attn,3.0,aaaa
+57,human,human,np_10,alph_5,sort,5.0,mpnhq
+57,human,human,np_2,alph_1,attn,6.0,aaaa
+57,human,human,np_2,alph_6,sort,0.0,kleij
+57,human,human,np_2,alph_5,succ,1.0,hijf
+57,human,human,np_2,alph_3,pred,8.0,tvwx
+57,human,human,np_2,alph_2,add_letter,8.0,mnopq
+57,human,human,np_2,alph_0,fix_alphabet,6.0,defgh
+57,human,human,np_2,alph_4,remove_redundant,5.0,fdecg
+57,human,human,np_symb,symb_0,pred,6.0,)@=&
+57,human,human,np_symb,symb_1,succ,8.0,$!+<
+58,human,human,np_5,alph_3,remove_redundant,7.0,lmzop
+58,human,human,np_5,alph_2,succ,5.0,jkal
+58,human,human,np_5,alph_5,sort,6.0,yuxwv
+58,human,human,np_5,alph_1,attn,8.0,a a a a
+58,human,human,np_5,alph_0,pred,8.0,stov
+58,human,human,np_5,alph_6,add_letter,3.0,t u v w x
+58,human,human,np_5,alph_4,fix_alphabet,0.0,g e i p s
+58,human,human,np_symb,symb_1,pred,7.0,> ! $ +
+58,human,human,np_symb,symb_0,succ,4.0,* @ = <
+58,human,human,np_20,alph_0,pred,4.0,l f j d
+58,human,human,np_20,alph_4,sort,2.0,m f t i n
+58,human,human,np_20,alph_1,add_letter,9.0,w m h i r
+58,human,human,np_20,alph_6,fix_alphabet,2.0,c m t v r
+58,human,human,np_20,alph_3,remove_redundant,3.0,q n y a k 
+58,human,human,np_20,alph_5,attn,8.0,a a a a 
+58,human,human,np_20,alph_2,succ,8.0,d l y o
+59,human,human,np_5,alph_4,pred,0.0,wxyz
+59,human,human,np_5,alph_0,add_letter,8.0,qpur
+59,human,human,np_5,alph_2,sort,4.0,c b q d e f
+59,human,human,np_5,alph_6,succ,5.0,rlmk
+59,human,human,np_5,alph_5,fix_alphabet,7.0,ywxvi
+59,human,human,np_5,alph_3,attn,7.0,a a a a
+59,human,human,np_5,alph_1,remove_redundant,9.0,r m n l p
+59,human,human,np_symb,symb_0,pred,6.0,)@ = &
+59,human,human,np_symb,symb_1,succ,5.0,) < @ *
+59,human,human,np_2,alph_1,remove_redundant,7.0,i j k b m
+59,human,human,np_2,alph_6,pred,9.0,l n o p
+59,human,human,np_2,alph_3,succ,1.0,o p y s
+59,human,human,np_2,alph_0,fix_alphabet,8.0,t b v w x
+59,human,human,np_2,alph_5,add_letter,5.0,c d e l g
+59,human,human,np_2,alph_2,attn,5.0,a a a a
+59,human,human,np_2,alph_4,sort,5.0,m n o p q
+60,human,human,np_10,alph_3,remove_redundant,5.0,v w x e y
+60,human,human,np_10,alph_1,attn,5.0,a a a a
+60,human,human,np_10,alph_2,add_letter,5.0,m n o p q
+60,human,human,np_10,alph_4,pred,7.0,c ef 
+60,human,human,np_10,alph_6,sort,0.0,m z l v w
+60,human,human,np_10,alph_0,fix_alphabet,8.0,i n u f p
+60,human,human,np_10,alph_5,succ,3.0,a c d f
+60,human,human,np_symb,symb_1,pred,5.0,)+<@
+60,human,human,np_symb,symb_0,succ,4.0,)@=&
+60,human,human,np_5,alph_4,remove_redundant,6.0,l m n o e
+60,human,human,np_5,alph_0,sort,1.0,pbqum
+60,human,human,np_5,alph_5,add_letter,6.0,qrstu
+60,human,human,np_5,alph_1,fix_alphabet,7.0,dofgk
+60,human,human,np_5,alph_2,succ,6.0,hpms
+60,human,human,np_5,alph_3,attn,4.0,a a a a
+60,human,human,np_5,alph_6,pred,1.0,fhij
+61,human,human,np_symb,symb_0,succ,8.0,)*@&
+61,human,human,np_symb,symb_1,pred,0.0,+<@=
+61,human,human,np_20,alph_2,remove_redundant,2.0,vrxjz
+61,human,human,np_20,alph_1,attn,1.0,aaaa
+61,human,human,np_20,alph_3,succ,6.0,mxun
+61,human,human,np_20,alph_6,fix_alphabet,6.0,diqkc
+61,human,human,np_20,alph_4,add_letter,6.0,ezbha
+61,human,human,np_20,alph_0,pred,6.0,prst
+61,human,human,np_20,alph_5,sort,0.0,szmpd
+61,human,human,np_2,alph_0,fix_alphabet,4.0,acdef
+61,human,human,np_2,alph_1,remove_redundant,5.0,jkbmn
+61,human,human,np_2,alph_6,add_letter,7.0,enopq
+61,human,human,np_2,alph_5,attn,5.0,aaaa
+61,human,human,np_2,alph_2,pred,3.0,jlmn
+61,human,human,np_2,alph_4,succ,5.0,cghj
+61,human,human,np_2,alph_3,sort,1.0,defgh
+62,human,human,np_2,alph_5,attn,8.0,aaaa
+62,human,human,np_2,alph_1,add_letter,1.0,kbmno
+62,human,human,np_2,alph_3,sort,5.0,zqxw
+62,human,human,np_2,alph_2,remove_redundant,2.0,tuvsx
+62,human,human,np_2,alph_6,succ,0.0,klnn
+62,human,human,np_2,alph_0,pred,0.0,jklm
+62,human,human,np_2,alph_4,fix_alphabet,8.0,onmlk
+62,human,human,np_symb,symb_0,succ,1.0,$)*=
+62,human,human,np_symb,symb_1,pred,8.0,<$!+
+62,human,human,np_5,alph_1,succ,2.0,qxtt
+62,human,human,np_5,alph_5,add_letter,6.0,qrstu
+62,human,human,np_5,alph_4,pred,8.0,acdf
+62,human,human,np_5,alph_2,sort,4.0,cdef
+62,human,human,np_5,alph_6,attn,8.0,aaaa
+62,human,human,np_5,alph_0,fix_alphabet,7.0,ovwxy
+62,human,human,np_5,alph_3,remove_redundant,0.0,efqhi
+63,human,human,np_5,alph_1,remove_redundant,6.0,vweyz
+63,human,human,np_5,alph_3,sort,8.0,snrpt
+63,human,human,np_5,alph_4,succ,8.0,noep
+63,human,human,np_5,alph_6,pred,1.0,fhij
+63,human,human,np_5,alph_0,attn,7.0,a a a a
+63,human,human,np_5,alph_2,add_letter,5.0,pmrst
+63,human,human,np_5,alph_5,fix_alphabet,4.0,bcdke
+63,human,human,np_symb,symb_1,pred,9.0,&$!+
+63,human,human,np_symb,symb_0,succ,1.0,$)*=
+63,human,human,np_2,alph_4,remove_redundant,8.0,abfde
+63,human,human,np_2,alph_2,add_letter,8.0,mnopq
+63,human,human,np_2,alph_5,pred,0.0,bdel
+63,human,human,np_2,alph_1,succ,8.0,bmnp
+63,human,human,np_2,alph_3,sort,9.0,utsry
+63,human,human,np_2,alph_0,attn,9.0,a a a a
+63,human,human,np_2,alph_6,fix_alphabet,2.0,edlpq
+64,human,human,np_symb,symb_1,pred,6.0,?
+64,human,human,np_symb,symb_0,succ,1.0,a
+64,human,human,np_2,alph_1,sort,4.0,?
+64,human,human,np_2,alph_4,pred,8.0,b
+64,human,human,np_2,alph_0,remove_redundant,7.0,2
+64,human,human,np_2,alph_2,attn,5.0,aaaa
+64,human,human,np_2,alph_5,add_letter,6.0,cdelg
+64,human,human,np_2,alph_6,succ,0.0,kleo
+64,human,human,np_2,alph_3,fix_alphabet,5.0,a w x q
+64,human,human,np_20,alph_4,pred,7.0,ba s j
+64,human,human,np_20,alph_1,attn,3.0,aaaa
+64,human,human,np_20,alph_3,sort,0.0,?
+64,human,human,np_20,alph_6,add_letter,6.0,q k c m t
+64,human,human,np_20,alph_5,succ,7.0,q v oi
+64,human,human,np_20,alph_0,fix_alphabet,2.0,?
+64,human,human,np_20,alph_2,remove_redundant,6.0,?
+65,human,human,np_20,alph_2,attn,1.0,aaaa
+65,human,human,np_20,alph_3,remove_redundant,7.0,logep
+65,human,human,np_20,alph_1,succ,2.0,gzym
+65,human,human,np_20,alph_4,pred,8.0,ivqy
+65,human,human,np_20,alph_5,sort,5.0,jpzms
+65,human,human,np_20,alph_6,add_letter,7.0,evwzl
+65,human,human,np_20,alph_0,fix_alphabet,4.0,sutwc
+65,human,human,np_symb,symb_0,succ,5.0,=&<!
+65,human,human,np_symb,symb_1,pred,1.0,)<@=
+65,human,human,np_2,alph_6,pred,8.0,cmfg
+65,human,human,np_2,alph_3,succ,5.0,stuw
+65,human,human,np_2,alph_5,remove_redundant,8.0,bcdel
+65,human,human,np_2,alph_0,attn,3.0,aaaa
+65,human,human,np_2,alph_2,fix_alphabet,5.0,rwtum
+65,human,human,np_2,alph_1,add_letter,9.0,alcde
+65,human,human,np_2,alph_4,sort,0.0,fcdgi
+66,human,human,np_symb,symb_0,pred,5.0,)=&<
+66,human,human,np_symb,symb_1,succ,3.0,+)<=
+66,human,human,np_20,alph_2,succ,7.0,bnfp
+66,human,human,np_20,alph_6,sort,1.0,diqkc
+66,human,human,np_20,alph_3,pred,1.0,roge
+66,human,human,np_20,alph_5,remove_redundant,9.0,aryte
+66,human,human,np_20,alph_4,add_letter,8.0,wpcde
+66,human,human,np_20,alph_0,fix_alphabet,9.0,bpers
+66,human,human,np_20,alph_1,attn,2.0,aaaa
+66,human,human,np_1,alph_0,fix_alphabet,1.0,cdefg
+66,human,human,np_1,alph_5,sort,4.0,uvwxy
+66,human,human,np_1,alph_1,add_letter,0.0,ghijk
+66,human,human,np_1,alph_2,attn,1.0,aaaa
+66,human,human,np_1,alph_4,pred,5.0,rtuv
+66,human,human,np_1,alph_6,remove_redundant,6.0,lmnop
+66,human,human,np_1,alph_3,succ,3.0,uvwy
+67,human,human,np_20,alph_0,add_letter,5.0,stwmc
+67,human,human,np_20,alph_2,succ,8.0,dlyo
+67,human,human,np_20,alph_3,attn,1.0,aaaa
+67,human,human,np_20,alph_6,pred,4.0,adiq
+67,human,human,np_20,alph_1,remove_redundant,3.0,uvpnx
+67,human,human,np_20,alph_5,fix_alphabet,6.0,ytefb
+67,human,human,np_20,alph_4,sort,4.0,mntkf
+67,human,human,np_symb,symb_0,pred,9.0,@&<+
+67,human,human,np_symb,symb_1,succ,0.0,+)<=
+67,human,human,np_10,alph_5,sort,2.0,acdbf
+67,human,human,np_10,alph_1,succ,2.0,phru
+67,human,human,np_10,alph_0,remove_redundant,0.0,eoghi
+67,human,human,np_10,alph_2,pred,6.0,djkl
+67,human,human,np_10,alph_6,add_letter,8.0,tyruv
+67,human,human,np_10,alph_3,attn,5.0,aaaa
+67,human,human,np_10,alph_4,fix_alphabet,0.0,vwxyr
+68,human,human,np_20,alph_4,sort,0.0,kmtno
+68,human,human,np_20,alph_2,fix_alphabet,0.0,lysock
+68,human,human,np_20,alph_1,pred,5.0,zwmh
+68,human,human,np_20,alph_3,succ,6.0,mxun
+68,human,human,np_20,alph_6,add_letter,8.0,xpjhn
+68,human,human,np_20,alph_5,attn,6.0,aaaa
+68,human,human,np_20,alph_0,remove_redundant,4.0,unoyq
+68,human,human,np_symb,symb_0,pred,2.0,@&<+
+68,human,human,np_symb,symb_1,succ,0.0,+)<=
+68,human,human,np_5,alph_5,add_letter,5.0,bcdef
+68,human,human,np_5,alph_4,sort,1.0,noeqp
+68,human,human,np_5,alph_6,attn,6.0,aaaa
+68,human,human,np_5,alph_3,remove_redundant,4.0,defqh
+68,human,human,np_5,alph_1,succ,6.0,abco
+68,human,human,np_5,alph_2,pred,4.0,foij
+68,human,human,np_5,alph_0,fix_alphabet,7.0,ovwxy
+69,human,human,np_symb,symb_0,succ,6.0,@ = &+
+69,human,human,np_symb,symb_1,pred,4.0,$ + ) <
+69,human,human,np_10,alph_5,sort,3.0,b e c d a
+69,human,human,np_10,alph_3,remove_redundant,7.0,p z f g h
+69,human,human,np_10,alph_2,succ,5.0,q y s u
+69,human,human,np_10,alph_1,attn,1.0,a a a a
+69,human,human,np_10,alph_6,pred,0.0, l m z v
+69,human,human,np_10,alph_0,fix_alphabet,8.0,i n k w l
+69,human,human,np_10,alph_4,add_letter,8.0,o p h n s
+69,human,human,np_20,alph_0,succ,9.0,h a z p
+69,human,human,np_20,alph_2,remove_redundant,8.0,v r x j z
+69,human,human,np_20,alph_4,attn,8.0,a a a a
+69,human,human,np_20,alph_3,pred,9.0,z h t c
+69,human,human,np_20,alph_6,add_letter,5.0,b r g y e
+69,human,human,np_20,alph_1,fix_alphabet,0.0,d t s j e
+69,human,human,np_20,alph_5,sort,8.0, k h l w c
+70,human,human,np_20,alph_3,sort,1.0,fzvht
+70,human,human,np_20,alph_6,attn,6.0,aaaa
+70,human,human,np_20,alph_1,remove_redundant,0.0,eeooflu
+70,human,human,np_20,alph_4,add_letter,2.0,dezbh
+70,human,human,np_20,alph_5,succ,4.0,khlc
+70,human,human,np_20,alph_2,fix_alphabet,6.0,wiqed
+70,human,human,np_20,alph_0,pred,5.0,prst
+70,human,human,np_symb,symb_1,pred,4.0,$!)<@
+70,human,human,np_symb,symb_0,succ,5.0,= & < +!
+70,human,human,np_2,alph_4,add_letter,5.0,abfde
+70,human,human,np_2,alph_3,remove_redundant,2.0,yrstu
+70,human,human,np_2,alph_6,pred,8.0,cmfg
+70,human,human,np_2,alph_0,succ,0.0,rstv
+70,human,human,np_2,alph_2,fix_alphabet,7.0,vsxyz
+70,human,human,np_2,alph_1,attn,0.0,aaaa
+70,human,human,np_2,alph_5,sort,3.0,bcdel
+71,human,human,np_2,alph_4,sort,5.0,mnopq
+71,human,human,np_2,alph_6,remove_redundant,7.0,bcdmf
+71,human,human,np_2,alph_0,fix_alphabet,7.0,nopqr
+71,human,human,np_2,alph_2,add_letter,5.0,qrwtu
+71,human,human,np_2,alph_1,pred,0.0,jbmn
+71,human,human,np_2,alph_3,succ,5.0,stuv
+71,human,human,np_2,alph_5,attn,1.0,aaaa
+71,human,human,np_symb,symb_0,pred,6.0,)@=&
+71,human,human,np_symb,symb_1,succ,6.0,>$!)
+71,human,human,np_1,alph_6,add_letter,9.0,efghi
+71,human,human,np_1,alph_3,succ,6.0,nopr
+71,human,human,np_1,alph_0,attn,7.0,aaaa
+71,human,human,np_1,alph_1,fix_alphabet,5.0,hijkl
+71,human,human,np_1,alph_4,remove_redundant,0.0,tuvwx
+71,human,human,np_1,alph_5,sort,6.0,defgh
+71,human,human,np_1,alph_2,pred,3.0,rtuv
+72,human,human,np_2,alph_3,sort,9.0,utsry
+72,human,human,np_2,alph_4,succ,9.0,uvwy
+72,human,human,np_2,alph_0,pred,0.0,jlmn
+72,human,human,np_2,alph_2,remove_redundant,1.0,defgh
+72,human,human,np_2,alph_6,fix_alphabet,5.0,lenop
+72,human,human,np_2,alph_5,attn,7.0,aaa
+72,human,human,np_2,alph_1,add_letter,2.0,hijkb
+72,human,human,np_10,alph_5,add_letter,6.0,grijk
+72,human,human,np_10,alph_3,pred,6.0,czfg
+72,human,human,np_10,alph_0,succ,4.0,twvx
+72,human,human,np_10,alph_6,attn,0.0,aaaa
+72,human,human,np_10,alph_4,sort,6.0,olmhp
+72,human,human,np_10,alph_2,fix_alphabet,2.0,yqpux
+72,human,human,np_10,alph_1,remove_redundant,7.0,rsudv
+72,human,human,np_symb,symb_1,pred,9.0,&$!+
+72,human,human,np_symb,symb_0,succ,1.0,$)*=
+73,human,human,np_symb,symb_0,succ,9.0,)*@&
+73,human,human,np_symb,symb_1,pred,9.0,&$!+
+73,human,human,np_2,alph_0,sort,7.0,auucg
+73,human,human,np_2,alph_4,succ,5.0,cghj
+73,human,human,np_2,alph_1,pred,1.0,acde
+73,human,human,np_2,alph_3,attn,4.0,yrsu
+73,human,human,np_2,alph_6,add_letter,9.0,hijkl
+73,human,human,np_2,alph_5,fix_alphabet,0.0,cpelu
+73,human,human,np_2,alph_2,remove_redundant,0.0,vsxyz
+73,human,human,np_20,alph_5,fix_alphabet,8.0,pduqv
+73,human,human,np_20,alph_6,add_letter,5.0,brgye
+73,human,human,np_20,alph_1,remove_redundant,3.0,uvvpn
+73,human,human,np_20,alph_2,pred,2.0,ktuv
+73,human,human,np_20,alph_3,sort,6.0,gepwj
+73,human,human,np_20,alph_4,attn,3.0,aaaa
+73,human,human,np_20,alph_0,succ,1.0,gfjk
+74,human,human,np_20,alph_3,succ,4.0,gepj
+74,human,human,np_20,alph_1,fix_alphabet,3.0,jeofl
+74,human,human,np_20,alph_6,remove_redundant,4.0,yevwz
+74,human,human,np_20,alph_2,attn,1.0,aaaa
+74,human,human,np_20,alph_4,pred,4.0,ontk
+74,human,human,np_20,alph_0,add_letter,7.0,jdkha
+74,human,human,np_20,alph_5,sort,8.0,cwlhk
+74,human,human,np_symb,symb_1,pred,1.0,.)<@
+74,human,human,np_symb,symb_0,succ,5.0,=&<>
+74,human,human,np_2,alph_0,sort,9.0,defgh
+74,human,human,np_2,alph_2,attn,5.0,aaaa
+74,human,human,np_2,alph_1,succ,9.0,alce
+74,human,human,np_2,alph_5,add_letter,8.0,kfmno
+74,human,human,np_2,alph_6,fix_alphabet,9.0,fghi
+74,human,human,np_2,alph_3,pred,0.0,vxqz
+74,human,human,np_2,alph_4,remove_redundant,9.0,qrstu
+75,human,human,np_10,alph_2,attn,7.0,a a a a
+75,human,human,np_10,alph_3,pred,6.0,c z f g
+75,human,human,np_10,alph_1,fix_alphabet,2.0,c q e f p
+75,human,human,np_10,alph_4,add_letter,6.0,h n s j u
+75,human,human,np_10,alph_0,succ,4.0,t w v x
+75,human,human,np_10,alph_5,remove_redundant,2.0,e a c c d b b
+75,human,human,np_10,alph_6,sort,6.0,w l m v u 
+75,human,human,np_symb,symb_0,succ,0.0,) * @ &
+75,human,human,np_symb,symb_1,pred,8.0,$ + + )
+75,human,human,np_5,alph_6,attn,4.0,a a a a 
+75,human,human,np_5,alph_1,sort,2.0,l m r n k
+75,human,human,np_5,alph_4,pred,4.0,d k g h
+75,human,human,np_5,alph_5,succ,9.0,u y w v
+75,human,human,np_5,alph_3,add_letter,3.0,e f q h i
+75,human,human,np_5,alph_0,fix_alphabet,2.0,e s f r h i 
+75,human,human,np_5,alph_2,remove_redundant,9.0,q b d d e
+76,human,human,np_2,alph_1,fix_alphabet,8.0,f y t r
+76,human,human,np_2,alph_5,pred,8.0,e h o q 
+76,human,human,np_2,alph_3,add_letter,2.0,b d f i j
+76,human,human,np_2,alph_4,sort,5.0,b e h i
+76,human,human,np_2,alph_6,attn,4.0,a a a a
+76,human,human,np_2,alph_2,succ,3.0,jklm
+76,human,human,np_2,alph_0,remove_redundant,0.0,e g h k l
+76,human,human,np_10,alph_6,succ,4.0,h p q t
+76,human,human,np_10,alph_1,fix_alphabet,3.0,t n x p h
+76,human,human,np_10,alph_4,remove_redundant,1.0,h n s j u
+76,human,human,np_10,alph_2,sort,8.0,p o n q
+76,human,human,np_10,alph_0,add_letter,9.0, w v b
+76,human,human,np_10,alph_5,pred,9.0,n p n h
+76,human,human,np_10,alph_3,attn,1.0,k j n b
+76,human,human,np_symb,symb_1,pred,2.0,& > @
+76,human,human,np_symb,symb_0,succ,9.0,$ # @
+77,human,human,np_2,alph_1,attn,3.0, a a a a
+77,human,human,np_2,alph_0,remove_redundant,4.0,bvwxy
+77,human,human,np_2,alph_4,pred,8.0,hjkl
+77,human,human,np_2,alph_5,add_letter,9.0,jkfmn
+77,human,human,np_2,alph_2,sort,2.0,jklmn
+77,human,human,np_2,alph_6,succ,1.0,dmfh
+77,human,human,np_2,alph_3,fix_alphabet,1.0,ijlm
+77,human,human,np_5,alph_0,pred,7.0,bpur
+77,human,human,np_5,alph_5,attn,1.0,a a a a
+77,human,human,np_5,alph_3,remove_redundant,7.0,lmzop
+77,human,human,np_5,alph_2,sort,1.0,utstm
+77,human,human,np_5,alph_4,add_letter,7.0,qpstu
+77,human,human,np_5,alph_1,succ,6.0,abco
+77,human,human,np_5,alph_6,fix_alphabet,8.0,mgkwq
+77,human,human,np_symb,symb_1,pred,3.0,& ! +
+77,human,human,np_symb,symb_0,succ,9.0,) * @& 
+78,human,human,np_1,alph_5,add_letter,5.0,rstuv
+78,human,human,np_1,alph_3,sort,5.0,xuwvy
+78,human,human,np_1,alph_2,fix_alphabet,6.0,pqrst
+78,human,human,np_1,alph_1,succ,7.0,qrsu
+78,human,human,np_1,alph_0,attn,0.0,aaaa
+78,human,human,np_1,alph_6,remove_redundant,7.0,cdefg
+78,human,human,np_1,alph_4,pred,0.0,iklm
+78,human,human,np_2,alph_0,add_letter,4.0,ucdef
+78,human,human,np_2,alph_2,succ,4.0,ijkm
+78,human,human,np_2,alph_4,fix_alphabet,0.0,decgh
+78,human,human,np_2,alph_3,sort,4.0,vwxqz
+78,human,human,np_2,alph_6,attn,2.0,aaaa
+78,human,human,np_2,alph_1,pred,0.0,jbmn
+78,human,human,np_2,alph_5,remove_redundant,1.0,delgh
+78,human,human,np_symb,symb_0,succ,8.0,)*@&
+78,human,human,np_symb,symb_1,pred,0.0,+<@=
+79,human,human,np_20,alph_3,remove_redundant,2.0,zvhtc
+79,human,human,np_20,alph_5,sort,6.0,btefy
+79,human,human,np_20,alph_2,pred,7.0,bfmp
+79,human,human,np_20,alph_1,succ,3.0,hird
+79,human,human,np_20,alph_6,add_letter,6.0,qkcmt
+79,human,human,np_20,alph_0,fix_alphabet,8.0,wmcak
+79,human,human,np_20,alph_4,attn,6.0,aaaa
+79,human,human,np_symb,symb_0,succ,9.0,)*@&
+79,human,human,np_symb,symb_1,pred,5.0,!)<@
+79,human,human,np_1,alph_4,sort,8.0,hijkl
+79,human,human,np_1,alph_6,remove_redundant,0.0,defgh
+79,human,human,np_1,alph_2,fix_alphabet,2.0,fghi
+79,human,human,np_1,alph_0,attn,1.0,aaaa
+79,human,human,np_1,alph_5,add_letter,8.0,efghi
+79,human,human,np_1,alph_1,pred,3.0,vxyz
+79,human,human,np_1,alph_3,succ,7.0,lmnp
+80,human,human,np_20,alph_6,succ,0.0,iqkm
+80,human,human,np_20,alph_2,fix_alphabet,4.0,amdgh
+80,human,human,np_20,alph_5,add_letter,8.0,uqvog
+80,human,human,np_20,alph_1,remove_redundant,0.0,ooflu
+80,human,human,np_20,alph_0,attn,4.0,aaaa
+80,human,human,np_20,alph_3,sort,1.0,fzvht
+80,human,human,np_20,alph_4,pred,4.0,ontk
+80,human,human,np_symb,symb_1,succ,6.0,>$!)
+80,human,human,np_symb,symb_0,pred,1.0,)@=&
+80,human,human,np_10,alph_1,sort,2.0,ogfiy
+80,human,human,np_10,alph_6,attn,1.0,aaaa
+80,human,human,np_10,alph_0,fix_alphabet,9.0,atpyr
+80,human,human,np_10,alph_5,pred,7.0,mnhq
+80,human,human,np_10,alph_2,remove_redundant,6.0,lmmno
+80,human,human,np_10,alph_4,succ,2.0,tkzl
+80,human,human,np_10,alph_3,add_letter,0.0,tuvwx
+81,human,human,np_1,alph_4,remove_redundant,2.0,cdefg
+81,human,human,np_1,alph_0,fix_alphabet,8.0,ghijk
+81,human,human,np_1,alph_1,add_letter,0.0,g h i j k
+81,human,human,np_1,alph_2,sort,3.0,n o p q r
+81,human,human,np_1,alph_5,pred,2.0,fhij
+81,human,human,np_1,alph_6,attn,4.0,a a a a
+81,human,human,np_1,alph_3,succ,3.0,u v wy
+81,human,human,np_symb,symb_0,succ,6.0,* @ = +
+81,human,human,np_symb,symb_1,pred,8.0,! $ + )
+81,human,human,np_5,alph_3,succ,8.0,a g c e
+81,human,human,np_5,alph_2,add_letter,3.0,e f g o i
+81,human,human,np_5,alph_4,sort,3.0,fkigh
+81,human,human,np_5,alph_0,pred,1.0,ndef
+81,human,human,np_5,alph_6,attn,0.0,aaaa
+81,human,human,np_5,alph_5,fix_alphabet,1.0,ywxvi
+81,human,human,np_5,alph_1,remove_redundant,9.0,rmnlp
+82,human,human,np_symb,symb_0,succ,1.0,$)*=
+82,human,human,np_symb,symb_1,pred,5.0,!)<@
+82,human,human,np_10,alph_2,pred,5.0,bhef
+82,human,human,np_10,alph_0,fix_alphabet,6.0,ufpyg
+82,human,human,np_10,alph_6,add_letter,1.0,ruvwl
+82,human,human,np_10,alph_1,remove_redundant,2.0,fgyio
+82,human,human,np_10,alph_5,attn,4.0,a a a a
+82,human,human,np_10,alph_4,succ,7.0,faqt
+82,human,human,np_10,alph_3,sort,4.0,kidbh
+82,human,human,np_1,alph_5,remove_redundant,1.0,uvwxy
+82,human,human,np_1,alph_2,fix_alphabet,3.0,ohefg
+82,human,human,np_1,alph_0,add_letter,7.0,bcdef
+82,human,human,np_1,alph_3,attn,6.0,a a a a
+82,human,human,np_1,alph_4,pred,6.0,npqr
+82,human,human,np_1,alph_6,sort,3.0,rutvs
+82,human,human,np_1,alph_1,succ,8.0,abce
+83,human,human,np_symb,symb_1,succ,9.0,!+)@
+83,human,human,np_symb,symb_0,pred,0.0,>*@=
+83,human,human,np_20,alph_1,sort,9.0,vnpxq
+83,human,human,np_20,alph_3,add_letter,4.0,jmxuq
+83,human,human,np_20,alph_2,succ,7.0,bnfm
+83,human,human,np_20,alph_0,remove_redundant,9.0,zbper
+83,human,human,np_20,alph_4,attn,9.0,a a a a
+83,human,human,np_20,alph_6,pred,0.0,ewzl
+83,human,human,np_20,alph_5,fix_alphabet,0.0,ptefj
+83,human,human,np_1,alph_6,sort,8.0,sprqo
+83,human,human,np_1,alph_0,add_letter,1.0,jklmn
+83,human,human,np_1,alph_1,fix_alphabet,5.0,hijkl
+83,human,human,np_1,alph_2,pred,5.0,jlmn
+83,human,human,np_1,alph_5,succ,2.0,qrsu
+83,human,human,np_1,alph_4,remove_redundant,5.0,tuvwx
+83,human,human,np_1,alph_3,attn,3.0,fghj
+84,human,human,np_symb,symb_0,succ,1.0,$)*=
+84,human,human,np_symb,symb_1,pred,3.0,&$!+
+84,human,human,np_1,alph_5,add_letter,2.0,rstuv
+84,human,human,np_1,alph_4,fix_alphabet,8.0,abcde
+84,human,human,np_1,alph_0,sort,5.0,uvwxy
+84,human,human,np_1,alph_2,succ,3.0,jkln
+84,human,human,np_1,alph_1,pred,2.0,cefg
+84,human,human,np_1,alph_3,attn,8.0,aaaa
+84,human,human,np_1,alph_6,remove_redundant,3.0,abcde
+84,human,human,np_2,alph_5,attn,6.0,aaaa
+84,human,human,np_2,alph_3,sort,3.0,nypro
+84,human,human,np_2,alph_1,pred,9.0,dfgh
+84,human,human,np_2,alph_2,fix_alphabet,6.0,klmno
+84,human,human,np_2,alph_0,add_letter,6.0,qrstb
+84,human,human,np_2,alph_6,remove_redundant,3.0,mfghi
+84,human,human,np_2,alph_4,succ,9.0,uvwy
+85,human,human,np_1,alph_3,add_letter,6.0,stuvw
+85,human,human,np_1,alph_5,sort,1.0,sprqt
+85,human,human,np_1,alph_4,attn,0.0,aaaa
+85,human,human,np_1,alph_0,succ,1.0,pqrt
+85,human,human,np_1,alph_1,fix_alphabet,8.0,optrj
+85,human,human,np_1,alph_6,remove_redundant,7.0,cdefg
+85,human,human,np_1,alph_2,pred,3.0,rtuv
+85,human,human,np_20,alph_6,sort,1.0,dqcki
+85,human,human,np_20,alph_4,pred,5.0,xom
+85,human,human,np_20,alph_2,succ,3.0,edls
+85,human,human,np_20,alph_1,remove_redundant,7.0,dtsjj
+85,human,human,np_20,alph_3,fix_alphabet,7.0,wvoge
+85,human,human,np_20,alph_5,add_letter,2.0,khl
+85,human,human,np_20,alph_0,attn,3.0,aaaa
+85,human,human,np_symb,symb_1,pred,7.0,&$!!
+85,human,human,np_symb,symb_0,succ,7.0,)*@=
+86,human,human,np_symb,symb_0,pred,7.0,&
+86,human,human,np_symb,symb_1,succ,7.0,@
+86,human,human,np_20,alph_1,add_letter,5.0,r k d t i
+86,human,human,np_20,alph_0,pred,0.0,khad
+86,human,human,np_20,alph_3,fix_alphabet,0.0,f w f z v
+86,human,human,np_20,alph_2,attn,1.0,q e d w
+86,human,human,np_20,alph_4,remove_redundant,9.0,o m n n t
+86,human,human,np_20,alph_5,sort,0.0,p z s m d
+86,human,human,np_20,alph_6,succ,8.0,p j h o
+86,human,human,np_10,alph_4,add_letter,9.0,i t k z l
+86,human,human,np_10,alph_5,sort,1.0,h m n p w
+86,human,human,np_10,alph_6,succ,9.0,g o i k
+86,human,human,np_10,alph_2,attn,3.0,a a a a
+86,human,human,np_10,alph_3,pred,7.0,a i b d
+86,human,human,np_10,alph_1,remove_redundant,3.0,k l t n x
+86,human,human,np_10,alph_0,fix_alphabet,4.0,d e f p a
+87,human,human,np_2,alph_1,sort,4.0,kbmno
+87,human,human,np_2,alph_4,pred,6.0,afde
+87,human,human,np_2,alph_0,attn,4.0,aaaa
+87,human,human,np_2,alph_5,succ,9.0,kfmo
+87,human,human,np_2,alph_2,fix_alphabet,3.0,mnopq
+87,human,human,np_2,alph_3,remove_redundant,2.0,yrstu
+87,human,human,np_2,alph_6,add_letter,5.0,bcdmf
+87,human,human,np_20,alph_2,remove_redundant,1.0,atuvr
+87,human,human,np_20,alph_6,pred,9.0,tsbr
+87,human,human,np_20,alph_0,fix_alphabet,3.0,azbpe
+87,human,human,np_20,alph_4,attn,9.0,aaaa
+87,human,human,np_20,alph_3,add_letter,0.0,qnyak
+87,human,human,np_20,alph_1,succ,5.0,zymh
+87,human,human,np_20,alph_5,sort,8.0,chlkw
+87,human,human,np_symb,symb_0,succ,7.0,)*@&
+87,human,human,np_symb,symb_1,pred,5.0,!)<@
+88,human,human,np_10,alph_4,sort,6.0,m l o p h
+88,human,human,np_10,alph_0,succ,0.0,v b x j
+88,human,human,np_10,alph_6,add_letter,8.0,t y r u v
+88,human,human,np_10,alph_2,pred,4.0,r k l m
+88,human,human,np_10,alph_5,fix_alphabet,7.0,k w m p z
+88,human,human,np_10,alph_1,remove_redundant,0.0,p h r s u
+88,human,human,np_10,alph_3,attn,9.0,a a a a
+88,human,human,np_2,alph_6,succ,6.0,a b c m
+88,human,human,np_2,alph_1,fix_alphabet,0.0,a l c d e
+88,human,human,np_2,alph_4,sort,9.0,a b f d e
+88,human,human,np_2,alph_2,attn,9.0,a a a a
+88,human,human,np_2,alph_0,add_letter,1.0,d e f g h
+88,human,human,np_2,alph_3,remove_redundant,9.0,d e f g h
+88,human,human,np_2,alph_5,pred,0.0,b d e l
+88,human,human,np_symb,symb_0,succ,9.0,) * @ &
+88,human,human,np_symb,symb_1,pred,9.0,& $ ! +
+89,human,human,np_20,alph_2,pred,7.0,bfmp
+89,human,human,np_20,alph_6,attn,9.0,aaaa
+89,human,human,np_20,alph_4,add_letter,6.0,ezbha
+89,human,human,np_20,alph_5,remove_redundant,9.0,aryte
+89,human,human,np_20,alph_3,sort,2.0,aqynu
+89,human,human,np_20,alph_0,fix_alphabet,4.0,stwmc
+89,human,human,np_20,alph_1,succ,8.0,flup
+89,human,human,np_symb,symb_0,pred,4.0,>=&<
+89,human,human,np_symb,symb_1,succ,7.0,$!+*
+89,human,human,np_5,alph_4,pred,4.0,dkgh
+89,human,human,np_5,alph_2,attn,4.0,aaaa
+89,human,human,np_5,alph_5,remove_redundant,3.0,ywxvi
+89,human,human,np_5,alph_3,succ,9.0,vwxb
+89,human,human,np_5,alph_1,sort,0.0,uvwey
+89,human,human,np_5,alph_6,add_letter,2.0,pqost
+89,human,human,np_5,alph_0,fix_alphabet,2.0,efghi
+90,human,human,np_10,alph_2,sort,9.0,edgrf
+90,human,human,np_10,alph_1,fix_alphabet,0.0,mjtnx
+90,human,human,np_10,alph_0,remove_redundant,0.0,eoghi
+90,human,human,np_10,alph_6,pred,5.0,dfgo
+90,human,human,np_10,alph_5,succ,9.0,jkwp
+90,human,human,np_10,alph_3,add_letter,4.0,ghibd
+90,human,human,np_10,alph_4,attn,4.0,hnsj
+90,human,human,np_5,alph_5,succ,6.0,uywv
+90,human,human,np_5,alph_4,pred,5.0,uwyx
+90,human,human,np_5,alph_0,remove_redundant,2.0,nccde
+90,human,human,np_5,alph_6,fix_alphabet,7.0,bjclm
+90,human,human,np_5,alph_2,add_letter,2.0,lanhp
+90,human,human,np_5,alph_3,attn,4.0,aaaa
+90,human,human,np_5,alph_1,sort,4.0,hjirk
+90,human,human,np_symb,symb_1,succ,5.0,)<@*
+90,human,human,np_symb,symb_0,pred,2.0,@&<+
+91,human,human,np_symb,symb_0,pred,6.0,=&<*
+91,human,human,np_symb,symb_1,succ,3.0,+)<@
+91,human,human,np_20,alph_0,attn,9.0,a a a a
+91,human,human,np_20,alph_4,succ,2.0,mntf
+91,human,human,np_20,alph_6,fix_alphabet,6.0,dvacg
+91,human,human,np_20,alph_1,sort,7.0,vqxnp
+91,human,human,np_20,alph_2,remove_redundant,1.0,atuvr
+91,human,human,np_20,alph_3,pred,2.0,rrlo
+91,human,human,np_20,alph_5,add_letter,5.0,vogik
+91,human,human,np_1,alph_2,attn,1.0,a a a a
+91,human,human,np_1,alph_0,fix_alphabet,7.0,bvdeu
+91,human,human,np_1,alph_3,pred,9.0,oqrs
+91,human,human,np_1,alph_1,succ,2.0,ijkm
+91,human,human,np_1,alph_6,add_letter,0.0,jklmn
+91,human,human,np_1,alph_5,sort,5.0,roqps
+91,human,human,np_1,alph_4,remove_redundant,7.0,hijkl
+92,human,human,np_symb,symb_0,succ,9.0,)*@&
+92,human,human,np_symb,symb_1,pred,3.0,&$!+
+92,human,human,np_2,alph_0,remove_redundant,9.0,aucde
+92,human,human,np_2,alph_2,add_letter,3.0,opqrw
+92,human,human,np_2,alph_4,fix_alphabet,7.0,stuvw
+92,human,human,np_2,alph_1,attn,3.0,aaaa
+92,human,human,np_2,alph_5,succ,6.0,fmnp
+92,human,human,np_2,alph_6,sort,1.0,vwxyz
+92,human,human,np_2,alph_3,pred,6.0,rtuv
+92,human,human,np_1,alph_3,sort,0.0,defgh
+92,human,human,np_1,alph_2,add_letter,3.0,nopqr
+92,human,human,np_1,alph_4,pred,0.0,iklm
+92,human,human,np_1,alph_5,attn,6.0,aaaa
+92,human,human,np_1,alph_0,fix_alphabet,1.0,cdefg
+92,human,human,np_1,alph_1,succ,7.0,qrsu
+92,human,human,np_1,alph_6,remove_redundant,8.0,ghijk
+93,human,human,np_10,alph_2,sort,7.0,jrdgf
+93,human,human,np_10,alph_6,succ,6.0,fgoj
+93,human,human,np_10,alph_5,pred,9.0,wpnh
+93,human,human,np_10,alph_4,remove_redundant,8.0,sjuvw
+93,human,human,np_10,alph_1,attn,6.0,aaaa
+93,human,human,np_10,alph_3,fix_alphabet,4.0,nolqr
+93,human,human,np_10,alph_0,add_letter,6.0,vbxzj
+93,human,human,np_symb,symb_0,pred,4.0,*=&<
+93,human,human,np_symb,symb_1,succ,2.0,>$!)
+93,human,human,np_2,alph_4,add_letter,0.0,rstuv
+93,human,human,np_2,alph_0,fix_alphabet,3.0,mnopq
+93,human,human,np_2,alph_3,attn,7.0,aaaa
+93,human,human,np_2,alph_1,sort,3.0,kbmno
+93,human,human,np_2,alph_6,pred,7.0,acdm
+93,human,human,np_2,alph_5,remove_redundant,0.0,delgh
+93,human,human,np_2,alph_2,succ,2.0,rwtv
+94,human,human,np_symb,symb_1,pred,4.0,$+)<
+94,human,human,np_symb,symb_0,succ,3.0,>$)@
+94,human,human,np_10,alph_5,attn,2.0,a a a a
+94,human,human,np_10,alph_0,remove_redundant,1.0,wvbxz
+94,human,human,np_10,alph_4,sort,2.0,onhsp
+94,human,human,np_10,alph_3,add_letter,7.0,fghib
+94,human,human,np_10,alph_2,fix_alphabet,2.0,ystux
+94,human,human,np_10,alph_1,pred,6.0,ktnx
+94,human,human,np_10,alph_6,succ,4.0,hpqy
+94,human,human,np_20,alph_3,remove_redundant,1.0,fzhvt
+94,human,human,np_20,alph_1,sort,2.0,eoflu
+94,human,human,np_20,alph_4,add_letter,3.0,ntkfi
+94,human,human,np_20,alph_5,pred,9.0,fnxj
+94,human,human,np_20,alph_6,fix_alphabet,1.0,mtfsb
+94,human,human,np_20,alph_2,succ,6.0,katv
+94,human,human,np_20,alph_0,attn,1.0,a a a a
+95,human,human,np_1,alph_5,remove_redundant,5.0,efghi
+95,human,human,np_1,alph_4,pred,2.0,tvwx
+95,human,human,np_1,alph_2,succ,7.0,qrsu
+95,human,human,np_1,alph_1,attn,6.0,aaaa
+95,human,human,np_1,alph_3,fix_alphabet,0.0,cdefg
+95,human,human,np_1,alph_0,sort,8.0,vtwsu
+95,human,human,np_1,alph_6,add_letter,4.0,defgh
+95,human,human,np_20,alph_2,fix_alphabet,7.0,ysock
+95,human,human,np_20,alph_1,pred,7.0,pxqc
+95,human,human,np_20,alph_0,attn,8.0,aaaa
+95,human,human,np_20,alph_4,sort,1.0,fnmkt
+95,human,human,np_20,alph_6,remove_redundant,5.0,jhnau
+95,human,human,np_20,alph_3,add_letter,5.0,qnyak
+95,human,human,np_20,alph_5,succ,4.0,khlc
+95,human,human,np_symb,symb_0,pred,0.0,$*@=
+95,human,human,np_symb,symb_1,succ,5.0,)<@*
+96,human,human,np_symb,symb_1,succ,8.0,$!+<
+96,human,human,np_symb,symb_0,pred,1.0,)@=&
+96,human,human,np_1,alph_3,fix_alphabet,3.0,qnstu
+96,human,human,np_1,alph_5,sort,8.0,qrstu
+96,human,human,np_1,alph_2,remove_redundant,5.0,hijkl
+96,human,human,np_1,alph_1,succ,4.0,pqrt
+96,human,human,np_1,alph_4,pred,2.0,tvwx
+96,human,human,np_1,alph_6,add_letter,6.0,mnopq
+96,human,human,np_1,alph_0,attn,2.0,a a a a
+96,human,human,np_5,alph_1,remove_redundant,6.0,vweyy
+96,human,human,np_5,alph_0,pred,5.0,qurs
+96,human,human,np_5,alph_5,succ,4.0,abce
+96,human,human,np_5,alph_4,sort,1.0,noeqp
+96,human,human,np_5,alph_6,add_letter,2.0,pqost
+96,human,human,np_5,alph_2,attn,8.0,a a a a
+96,human,human,np_5,alph_3,fix_alphabet,4.0,ufqei
+97,human,human,np_5,alph_1,sort,4.0,hjikr
+97,human,human,np_5,alph_5,succ,1.0,pqrt
+97,human,human,np_5,alph_4,attn,5.0,aaaa
+97,human,human,np_5,alph_3,add_letter,3.0,efqhi
+97,human,human,np_5,alph_6,fix_alphabet,2.0,jrpia
+97,human,human,np_5,alph_0,pred,7.0,ppur
+97,human,human,np_5,alph_2,remove_redundant,6.0,stuvw
+97,human,human,np_symb,symb_0,succ,9.0,)@@=
+97,human,human,np_symb,symb_1,pred,4.0,$+)<
+97,human,human,np_1,alph_5,add_letter,0.0,jklmn
+97,human,human,np_1,alph_0,remove_redundant,8.0,qrstu
+97,human,human,np_1,alph_3,attn,7.0,a a a a
+97,human,human,np_1,alph_2,sort,6.0,uvtwx
+97,human,human,np_1,alph_4,fix_alphabet,9.0,chyjk
+97,human,human,np_1,alph_6,succ,3.0,p q r t
+97,human,human,np_1,alph_1,pred,7.0,p r s t
+98,human,human,np_2,alph_4,sort,3.0,b e f d c
+98,human,human,np_2,alph_3,add_letter,2.0,j k l m n
+98,human,human,np_2,alph_5,remove_redundant,4.0,j k f m n
+98,human,human,np_2,alph_2,attn,3.0,a a a a
+98,human,human,np_2,alph_1,pred,7.0,u w x y
+98,human,human,np_2,alph_0,succ,7.0,b v x z
+98,human,human,np_2,alph_6,fix_alphabet,1.0,a b c d m
+98,human,human,np_10,alph_4,remove_redundant,2.0,d e f a q
+98,human,human,np_10,alph_1,attn,5.0,a a a a
+98,human,human,np_10,alph_0,fix_alphabet,8.0,i n k l m
+98,human,human,np_10,alph_5,sort,6.0,k w m p n
+98,human,human,np_10,alph_6,pred,0.0,v l m z
+98,human,human,np_10,alph_2,succ,6.0,u x a i
+98,human,human,np_10,alph_3,add_letter,5.0,s t u v w
+98,human,human,np_symb,symb_0,pred,9.0,@ & < +
+98,human,human,np_symb,symb_1,succ,0.0,+ ) < =
+99,human,human,np_10,alph_4,sort,9.0,afeiq
+99,human,human,np_10,alph_0,add_letter,6.0,vbxzj
+99,human,human,np_10,alph_5,succ,8.0,dbfr
+99,human,human,np_10,alph_3,pred,8.0,czfg
+99,human,human,np_10,alph_2,attn,8.0,aaaa
+99,human,human,np_10,alph_1,fix_alphabet,6.0,udmyx
+99,human,human,np_10,alph_6,remove_redundant,8.0,qtryu
+99,human,human,np_symb,symb_1,pred,1.0,!)<@
+99,human,human,np_symb,symb_0,succ,9.0,)*@&
+99,human,human,np_20,alph_6,remove_redundant,5.0,jhnau
+99,human,human,np_20,alph_2,add_letter,2.0,atuvr
+99,human,human,np_20,alph_5,fix_alphabet,1.0,inxs
+99,human,human,np_20,alph_0,pred,9.0,nyql
+99,human,human,np_20,alph_4,sort,5.0,quyiv
+99,human,human,np_20,alph_1,attn,6.0,aaaa
+99,human,human,np_20,alph_3,succ,9.0,ibsf
+100,human,human,np_symb,symb_0,succ,7.0,) * @ &
+100,human,human,np_symb,symb_1,pred,9.0,& $ ! +
+100,human,human,np_20,alph_2,sort,9.0,w i q e d
+100,human,human,np_20,alph_6,add_letter,3.0,i q k c m
+100,human,human,np_20,alph_3,remove_redundant,8.0,t c r l o
+100,human,human,np_20,alph_0,pred,9.0,n y q l
+100,human,human,np_20,alph_1,fix_alphabet,2.0,r k d t s
+100,human,human,np_20,alph_4,attn,1.0,a a a a 
+100,human,human,np_20,alph_5,succ,6.0,u q v g
+100,human,human,np_10,alph_3,remove_redundant,1.0,l q r s t
+100,human,human,np_10,alph_5,add_letter,1.0,f g r i j
+100,human,human,np_10,alph_4,fix_alphabet,6.0,o p h n s
+100,human,human,np_10,alph_1,pred,7.0,q f g y
+100,human,human,np_10,alph_2,succ,9.0,o p q s
+100,human,human,np_10,alph_6,sort,6.0,u v w l m
+100,human,human,np_10,alph_0,attn,6.0,a a a a 
+101,human,human,np_10,alph_2,sort,2.0,xawiz
+101,human,human,np_10,alph_6,fix_alphabet,2.0,vwlmz
+101,human,human,np_10,alph_5,pred,5.0,hlst
+101,human,human,np_10,alph_3,add_letter,9.0,uvwxe
+101,human,human,np_10,alph_4,remove_redundant,6.0,mloph
+101,human,human,np_10,alph_1,succ,4.0,gyik
+101,human,human,np_10,alph_0,attn,4.0,aaaa
+101,human,human,np_symb,symb_1,succ,1.0,&>$
+101,human,human,np_symb,symb_0,pred,7.0,)@=&
+101,human,human,np_20,alph_2,succ,2.0,nfmg
+101,human,human,np_20,alph_1,sort,8.0,nuvlp
+101,human,human,np_20,alph_6,remove_redundant,5.0,jhnau
+101,human,human,np_20,alph_3,attn,9.0,aaaa
+101,human,human,np_20,alph_0,pred,7.0,abpe
+101,human,human,np_20,alph_5,add_letter,4.0,mpduq
+101,human,human,np_20,alph_4,fix_alphabet,3.0,ntkfi
+102,human,human,np_2,alph_4,add_letter,5.0,abfde
+102,human,human,np_2,alph_2,fix_alphabet,9.0,efghi
+102,human,human,np_2,alph_0,attn,5.0,aaaa
+102,human,human,np_2,alph_6,pred,1.0,mghi
+102,human,human,np_2,alph_3,sort,6.0,fghij
+102,human,human,np_2,alph_5,succ,0.0,jkfn
+102,human,human,np_2,alph_1,remove_redundant,0.0,stuvw
+102,human,human,np_symb,symb_0,succ,8.0,)*@&
+102,human,human,np_symb,symb_1,pred,6.0,)@=*
+102,human,human,np_10,alph_6,add_letter,6.0,tyruv
+102,human,human,np_10,alph_4,succ,7.0,faqt
+102,human,human,np_10,alph_1,fix_alphabet,5.0,phrsu
+102,human,human,np_10,alph_5,remove_redundant,8.0,acdbf
+102,human,human,np_10,alph_3,sort,9.0,mcpzf
+102,human,human,np_10,alph_0,attn,9.0,aaaa
+102,human,human,np_10,alph_2,pred,4.0,rklm
+103,human,human,np_symb,symb_0,pred,0.0,$*@=
+103,human,human,np_symb,symb_1,succ,5.0,)<@*
+103,human,human,np_2,alph_3,sort,6.0,fijgh
+103,human,human,np_2,alph_2,add_letter,7.0,vsxyz
+103,human,human,np_2,alph_6,remove_redundant,3.0,mfghij
+103,human,human,np_2,alph_4,fix_alphabet,0.0,decgh
+103,human,human,np_2,alph_5,attn,3.0,aaaa
+103,human,human,np_2,alph_0,succ,0.0,rstv
+103,human,human,np_2,alph_1,pred,8.0,qstu
+103,human,human,np_5,alph_5,succ,5.0,ywxi
+103,human,human,np_5,alph_6,fix_alphabet,8.0,makpq
+103,human,human,np_5,alph_0,attn,7.0,aaaa
+103,human,human,np_5,alph_3,pred,0.0,cefq
+103,human,human,np_5,alph_1,remove_redundant,2.0,jkrmn
+103,human,human,np_5,alph_2,add_letter,1.0,qbcde
+103,human,human,np_5,alph_4,sort,5.0,hijrl
+104,human,human,np_5,alph_1,succ,3.0,bcdf
+104,human,human,np_5,alph_6,remove_redundant,6.0,ostuv
+104,human,human,np_5,alph_2,add_letter,8.0,nhpmr
+104,human,human,np_5,alph_5,sort,4.0,zljmn
+104,human,human,np_5,alph_0,attn,5.0,aaaa
+104,human,human,np_5,alph_3,fix_alphabet,7.0,xgcde
+104,human,human,np_5,alph_4,pred,0.0,ptuv
+104,human,human,np_2,alph_3,add_letter,9.0,yrstu
+104,human,human,np_2,alph_2,sort,1.0,wtruv
+104,human,human,np_2,alph_5,attn,6.0,aaaa
+104,human,human,np_2,alph_0,fix_alphabet,1.0,rstbv
+104,human,human,np_2,alph_4,remove_redundant,0.0,abfde
+104,human,human,np_2,alph_6,succ,4.0,enoq
+104,human,human,np_2,alph_1,pred,5.0,acde
+104,human,human,np_symb,symb_0,succ,9.0,)*@&
+104,human,human,np_symb,symb_1,pred,8.0,>!+)
+105,human,human,np_5,alph_1,pred,1.0,qstu
+105,human,human,np_5,alph_5,remove_redundant,9.0,cdefg
+105,human,human,np_5,alph_6,sort,1.0,ijrlm
+105,human,human,np_5,alph_3,fix_alphabet,5.0,cderg
+105,human,human,np_5,alph_4,add_letter,1.0,uvwxy
+105,human,human,np_5,alph_0,attn,1.0,aaaa
+105,human,human,np_5,alph_2,succ,4.0,nhpr
+105,human,human,np_10,alph_0,pred,1.0,qdeo
+105,human,human,np_10,alph_6,remove_redundant,9.0,hpqty
+105,human,human,np_10,alph_5,add_letter,4.0,stuvo
+105,human,human,np_10,alph_2,sort,8.0,pqyst
+105,human,human,np_10,alph_3,fix_alphabet,6.0,qrstu
+105,human,human,np_10,alph_4,succ,2.0,tkml
+105,human,human,np_10,alph_1,attn,6.0,aaaa
+105,human,human,np_symb,symb_1,pred,9.0,&$!+
+105,human,human,np_symb,symb_0,succ,0.0,)*@&
+106,human,human,np_symb,symb_0,pred,2.0,&<+!
+106,human,human,np_symb,symb_1,succ,0.0,+<@*
+106,human,human,np_2,alph_1,add_letter,8.0,bmnop
+106,human,human,np_2,alph_2,fix_alphabet,2.0,himop
+106,human,human,np_2,alph_6,attn,4.0,aaaa
+106,human,human,np_2,alph_3,remove_redundant,5.0,tuvwx
+106,human,human,np_2,alph_0,sort,0.0,wbvxt
+106,human,human,np_2,alph_5,pred,4.0,jfmn
+106,human,human,np_2,alph_4,succ,2.0,fded
+106,human,human,np_20,alph_0,sort,3.0,xcmiv
+106,human,human,np_20,alph_4,remove_redundant,8.0,jgxoo
+106,human,human,np_20,alph_6,pred,1.0,uiqk
+106,human,human,np_20,alph_2,fix_alphabet,5.0,lkspc
+106,human,human,np_20,alph_3,succ,7.0,logp
+106,human,human,np_20,alph_5,attn,8.0,aaaa
+106,human,human,np_20,alph_1,add_letter,9.0,wmhir
+107,human,human,np_10,alph_3,succ,4.0,amcz
+107,human,human,np_10,alph_1,add_letter,8.0,vwmz
+107,human,human,np_10,alph_6,fix_alphabet,5.0,fgoi
+107,human,human,np_10,alph_4,attn,9.0,aaaa
+107,human,human,np_10,alph_0,sort,4.0,eough
+107,human,human,np_10,alph_5,pred,7.0,mnhq
+107,human,human,np_10,alph_2,remove_redundant,5.0,pqyst
+107,human,human,np_symb,symb_1,succ,1.0,)>$+
+107,human,human,np_symb,symb_0,pred,4.0,@&<+
+107,human,human,np_20,alph_6,remove_redundant,7.0,rgyev
+107,human,human,np_20,alph_0,add_letter,0.0,qlgfj
+107,human,human,np_20,alph_2,attn,5.0,aaaa
+107,human,human,np_20,alph_3,fix_alphabet,8.0,qnyak
+107,human,human,np_20,alph_5,sort,2.0,efbnx
+107,human,human,np_20,alph_4,succ,8.0,jgxm
+107,human,human,np_20,alph_1,pred,5.0,zwmh
+108,human,human,np_symb,symb_1,succ,7.0,$!+<
+108,human,human,np_symb,symb_0,pred,8.0,$*@=
+108,human,human,np_5,alph_0,sort,0.0,ywbmh
+108,human,human,np_5,alph_3,add_letter,6.0,gcdef
+108,human,human,np_5,alph_6,attn,1.0,aaaa
+108,human,human,np_5,alph_1,pred,7.0,pxst
+108,human,human,np_5,alph_2,succ,6.0,hpms
+108,human,human,np_5,alph_4,remove_redundant,4.0,jrlmn
+108,human,human,np_5,alph_5,fix_alphabet,6.0,kjzlm
+108,human,human,np_2,alph_6,succ,5.0,abcm
+108,human,human,np_2,alph_2,attn,1.0,aaaa
+108,human,human,np_2,alph_5,fix_alphabet,2.0,kfmno
+108,human,human,np_2,alph_4,remove_redundant,5.0,fdecg
+108,human,human,np_2,alph_1,sort,9.0,vwxyz
+108,human,human,np_2,alph_0,pred,3.0,gijk
+108,human,human,np_2,alph_3,add_letter,1.0,klmno
+109,human,human,np_symb,symb_0,succ,9.0,)*@&
+109,human,human,np_symb,symb_1,pred,2.0,&$!+
+109,human,human,np_20,alph_0,succ,7.0,oylg
+109,human,human,np_20,alph_5,attn,5.0,aaaa
+109,human,human,np_20,alph_4,fix_alphabet,5.0,akjiu
+109,human,human,np_20,alph_2,pred,1.0,lsoc
+109,human,human,np_20,alph_1,remove_redundant,4.0,gzzywmm
+109,human,human,np_20,alph_6,sort,8.0,vowll
+109,human,human,np_20,alph_3,add_letter,1.0,sdfzv
+109,human,human,np_2,alph_2,pred,5.0,qwtu
+109,human,human,np_2,alph_6,remove_redundant,2.0,uvvwxyy
+109,human,human,np_2,alph_5,succ,2.0,uwmy
+109,human,human,np_2,alph_3,attn,4.0,aaaa
+109,human,human,np_2,alph_0,sort,8.0,tqvxw
+109,human,human,np_2,alph_1,add_letter,4.0,lcdf
+109,human,human,np_2,alph_4,fix_alphabet,5.0,nfdeg
+110,human,human,np_symb,symb_1,pred,4.0,$+)<
+110,human,human,np_symb,symb_0,succ,3.0,>$)@
+110,human,human,np_2,alph_3,succ,9.0,lmnp
+110,human,human,np_2,alph_5,sort,2.0,delgh
+110,human,human,np_2,alph_6,attn,0.0,aaaa
+110,human,human,np_2,alph_0,fix_alphabet,0.0,defgh
+110,human,human,np_2,alph_1,add_letter,8.0,bmnop
+110,human,human,np_2,alph_2,pred,6.0,vxyz
+110,human,human,np_2,alph_4,remove_redundant,8.0,abfde
+110,human,human,np_10,alph_3,sort,5.0,amcpz
+110,human,human,np_10,alph_4,fix_alphabet,4.0,phnsj
+110,human,human,np_10,alph_1,attn,4.0,aaaa
+110,human,human,np_10,alph_5,pred,8.0,kmpn
+110,human,human,np_10,alph_6,add_letter,2.0,absde
+110,human,human,np_10,alph_2,succ,9.0,opqs
+110,human,human,np_10,alph_0,remove_redundant,6.0,lmufp
+111,human,human,np_5,alph_0,remove_redundant,2.0,ncdef
+111,human,human,np_5,alph_6,add_letter,7.0,ghijr
+111,human,human,np_5,alph_1,succ,1.0,cdog
+111,human,human,np_5,alph_4,pred,9.0,qstu
+111,human,human,np_5,alph_5,attn,5.0,aaaa
+111,human,human,np_5,alph_2,sort,4.0,qbcde
+111,human,human,np_5,alph_3,fix_alphabet,5.0,cdefq
+111,human,human,np_1,alph_6,succ,4.0,stuw
+111,human,human,np_1,alph_1,add_letter,2.0,nopqr
+111,human,human,np_1,alph_2,remove_redundant,3.0,lmnop
+111,human,human,np_1,alph_5,attn,1.0,aaaa
+111,human,human,np_1,alph_4,fix_alphabet,3.0,vwxyz
+111,human,human,np_1,alph_0,pred,7.0,suvw
+111,human,human,np_1,alph_3,sort,5.0,uvwxy
+111,human,human,np_symb,symb_1,succ,6.0,>$!)
+111,human,human,np_symb,symb_0,pred,7.0,)@=&
+112,human,human,np_1,alph_1,succ,3.0,vwxz
+112,human,human,np_1,alph_3,pred,9.0,oqrs
+112,human,human,np_1,alph_6,add_letter,7.0,tuvwx
+112,human,human,np_1,alph_4,remove_redundant,5.0,tuvwx
+112,human,human,np_1,alph_0,attn,6.0,aaaa
+112,human,human,np_1,alph_2,fix_alphabet,7.0,hijkl
+112,human,human,np_1,alph_5,sort,4.0,uvwxy
+112,human,human,np_symb,symb_0,pred,1.0,)*@=&
+112,human,human,np_symb,symb_1,succ,0.0,+)<=
+112,human,human,np_2,alph_3,add_letter,8.0,fghij
+112,human,human,np_2,alph_4,fix_alphabet,7.0,qrstu
+112,human,human,np_2,alph_6,succ,1.0,dmfh
+112,human,human,np_2,alph_5,remove_redundant,0.0,delgh
+112,human,human,np_2,alph_2,pred,0.0,cefg
+112,human,human,np_2,alph_0,attn,6.0,aaaa
+112,human,human,np_2,alph_1,sort,3.0,kbmno
+113,human,human,np_10,alph_5,pred,2.0,mnhq
+113,human,human,np_10,alph_1,fix_alphabet,9.0,krsuy
+113,human,human,np_10,alph_0,attn,5.0,aaaa
+113,human,human,np_10,alph_3,add_letter,1.0,amcpz
+113,human,human,np_10,alph_6,sort,8.0,zmwlv
+113,human,human,np_10,alph_2,succ,2.0,rjkm
+113,human,human,np_10,alph_4,remove_redundant,0.0,itkzm
+113,human,human,np_5,alph_3,fix_alphabet,9.0,gcdef
+113,human,human,np_5,alph_5,sort,1.0,onmlz
+113,human,human,np_5,alph_0,add_letter,8.0,qpurs
+113,human,human,np_5,alph_1,pred,0.0,cofg
+113,human,human,np_5,alph_2,remove_redundant,6.0,stuvw
+113,human,human,np_5,alph_4,attn,0.0,aaaa
+113,human,human,np_5,alph_6,succ,5.0,rlmk
+113,human,human,np_symb,symb_0,succ,6.0,@=&+
+113,human,human,np_symb,symb_1,pred,8.0,>!+)
+114,human,human,np_1,alph_0,add_letter,2.0,klmno
+114,human,human,np_1,alph_4,attn,1.0,aaaa
+114,human,human,np_1,alph_3,sort,3.0,efghi
+114,human,human,np_1,alph_1,remove_redundant,8.0,efghi
+114,human,human,np_1,alph_5,fix_alphabet,8.0,uvweo
+114,human,human,np_1,alph_6,pred,2.0,dfgh
+114,human,human,np_1,alph_2,succ,8.0,ghik
+114,human,human,np_20,alph_4,fix_alphabet,3.0,ntkfi
+114,human,human,np_20,alph_2,succ,5.0,ysok
+114,human,human,np_20,alph_0,attn,5.0,aaaa
+114,human,human,np_20,alph_5,remove_redundant,1.0,mpduq
+114,human,human,np_20,alph_6,sort,4.0,kcmtf
+114,human,human,np_20,alph_3,pred,9.0,zhtc
+114,human,human,np_20,alph_1,add_letter,6.0,pnxqc
+114,human,human,np_symb,symb_1,pred,0.0,+<@=
+114,human,human,np_symb,symb_0,succ,3.0,>$)@
+115,human,human,np_20,alph_0,sort,7.0,jdkah
+115,human,human,np_20,alph_3,succ,6.0,mxun
+115,human,human,np_20,alph_6,fix_alphabet,6.0,diqkc
+115,human,human,np_20,alph_1,remove_redundant,2.0,pnxqc
+115,human,human,np_20,alph_5,add_letter,3.0,duqvo
+115,human,human,np_20,alph_2,attn,6.0,aaaa
+115,human,human,np_20,alph_4,pred,0.0,cezb
+115,human,human,np_2,alph_1,succ,3.0,efgi
+115,human,human,np_2,alph_2,fix_alphabet,5.0,owtum
+115,human,human,np_2,alph_6,sort,4.0,mfcdg
+115,human,human,np_2,alph_4,add_letter,9.0,abfde
+115,human,human,np_2,alph_3,remove_redundant,8.0,fghij
+115,human,human,np_2,alph_5,pred,4.0,jfmn
+115,human,human,np_2,alph_0,attn,1.0,aaaa
+115,human,human,np_symb,symb_1,pred,4.0,[$=)<]
+115,human,human,np_symb,symb_0,succ,5.0,[=&<!]
+116,human,human,np_1,alph_2,pred,1.0,ijkl
+116,human,human,np_1,alph_6,sort,7.0,kjihg
+116,human,human,np_1,alph_1,attn,5.0,aaaa
+116,human,human,np_1,alph_0,remove_redundant,2.0,defgh
+116,human,human,np_1,alph_5,fix_alphabet,0.0,cgyij
+116,human,human,np_1,alph_4,add_letter,6.0,fghij
+116,human,human,np_1,alph_3,succ,6.0,nopr
+116,human,human,np_symb,symb_0,pred,9.0,=&+<
+116,human,human,np_symb,symb_1,succ,9.0,!+)@
+116,human,human,np_2,alph_5,attn,2.0,aaaa
+116,human,human,np_2,alph_6,succ,8.0,klmo
+116,human,human,np_2,alph_3,sort,3.0,nprqy
+116,human,human,np_2,alph_0,add_letter,8.0,hijkl
+116,human,human,np_2,alph_1,fix_alphabet,8.0,uvwfg
+116,human,human,np_2,alph_4,pred,1.0,gmno
+116,human,human,np_2,alph_2,remove_redundant,9.0,kklmn
+117,human,human,np_20,alph_5,fix_alphabet,5.0,nxjsz
+117,human,human,np_20,alph_6,add_letter,7.0,evwzl
+117,human,human,np_20,alph_3,sort,2.0,aqynu
+117,human,human,np_20,alph_2,attn,8.0,aaaa
+117,human,human,np_20,alph_0,remove_redundant,5.0,qlgfj
+117,human,human,np_20,alph_4,pred,4.0,ontk
+117,human,human,np_20,alph_1,succ,8.0,flup
+117,human,human,np_symb,symb_0,pred,9.0,@ & < +
+117,human,human,np_symb,symb_1,succ,6.0,>$!)
+117,human,human,np_1,alph_3,attn,2.0,aaaa
+117,human,human,np_1,alph_6,sort,6.0,rtsqu
+117,human,human,np_1,alph_5,succ,0.0,opqs
+117,human,human,np_1,alph_2,remove_redundant,3.0,lmnop
+117,human,human,np_1,alph_1,fix_alphabet,1.0,ddefg
+117,human,human,np_1,alph_4,pred,2.0,tvwx
+117,human,human,np_1,alph_0,add_letter,6.0,stuvw
+118,human,human,np_20,alph_5,attn,8.0,aaaa
+118,human,human,np_20,alph_6,fix_alphabet,6.0,diqkc
+118,human,human,np_20,alph_0,remove_redundant,0.0,perst
+118,human,human,np_20,alph_4,pred,0.0,cezb
+118,human,human,np_20,alph_3,succ,4.0,gepj
+118,human,human,np_20,alph_1,add_letter,5.0,rkdts
+118,human,human,np_20,alph_2,sort,1.0,katuv
+118,human,human,np_symb,symb_0,pred,5.0,)@=&
+118,human,human,np_symb,symb_1,succ,0.0,+)<=
+118,human,human,np_5,alph_0,fix_alphabet,3.0,qpurs
+118,human,human,np_5,alph_5,pred,6.0,rtuy
+118,human,human,np_5,alph_1,attn,8.0,aaaa
+118,human,human,np_5,alph_2,add_letter,3.0,efgoi
+118,human,human,np_5,alph_4,sort,9.0,dcbfk
+118,human,human,np_5,alph_6,remove_redundant,7.0,cdefg
+118,human,human,np_5,alph_3,succ,0.0,tuvx
+119,human,human,np_10,alph_5,attn,8.0,aaaa
+119,human,human,np_10,alph_2,remove_redundant,0.0,xawix
+119,human,human,np_10,alph_4,pred,1.0,gcde
+119,human,human,np_10,alph_0,sort,7.0,aqecd
+119,human,human,np_10,alph_1,fix_alphabet,9.0,hrsud
+119,human,human,np_10,alph_6,succ,6.0,fgoj
+119,human,human,np_10,alph_3,add_letter,2.0,cpzfg
+119,human,human,np_symb,symb_1,pred,5.0,!+)<
+119,human,human,np_symb,symb_0,succ,4.0,*@=<
+119,human,human,np_2,alph_4,remove_redundant,2.0,cghij
+119,human,human,np_2,alph_1,succ,8.0,bmnp
+119,human,human,np_2,alph_3,fix_alphabet,9.0,mnopy
+119,human,human,np_2,alph_0,sort,6.0,qtbsr
+119,human,human,np_2,alph_5,pred,3.0,hjkf
+119,human,human,np_2,alph_6,attn,0.0,aaaa
+119,human,human,np_2,alph_2,add_letter,4.0,nopqr
+120,human,human,np_2,alph_3,sort,6.0,fghij
+120,human,human,np_2,alph_6,attn,2.0,aaaa
+120,human,human,np_2,alph_4,pred,6.0,afde
+120,human,human,np_2,alph_5,fix_alphabet,3.0,opqrs
+120,human,human,np_2,alph_0,remove_redundant,2.0,nopqr
+120,human,human,np_2,alph_1,add_letter,9.0,alcde
+120,human,human,np_2,alph_2,succ,6.0,uvsy
+120,human,human,np_symb,symb_1,succ,1.0,&>$
+120,human,human,np_symb,symb_0,pred,1.0,)@=&
+120,human,human,np_10,alph_5,add_letter,0.0,mpnhq
+120,human,human,np_10,alph_2,fix_alphabet,1.0,ysaux
+120,human,human,np_10,alph_0,attn,5.0,aaaa
+120,human,human,np_10,alph_6,remove_redundant,6.0,xnhpq
+120,human,human,np_10,alph_1,pred,5.0,sdvw
+120,human,human,np_10,alph_3,succ,3.0,tuvx
+120,human,human,np_10,alph_4,sort,6.0,mloph
+121,human,human,np_20,alph_0,add_letter,5.0,stwmc
+121,human,human,np_20,alph_3,succ,0.0,logp
+121,human,human,np_20,alph_4,attn,6.0,a a a a
+121,human,human,np_20,alph_5,sort,0.0,pzsmd
+121,human,human,np_20,alph_2,fix_alphabet,5.0,lespc
+121,human,human,np_20,alph_6,pred,5.0,mfsb
+121,human,human,np_20,alph_1,remove_redundant,4.0,gzywm
+121,human,human,np_5,alph_5,remove_redundant,3.0,ywxvi
+121,human,human,np_5,alph_1,add_letter,4.0,fghij
+121,human,human,np_5,alph_6,pred,6.0,bdef
+121,human,human,np_5,alph_4,attn,7.0,a a a a
+121,human,human,np_5,alph_2,succ,8.0,anhm
+121,human,human,np_5,alph_0,sort,4.0,defgh
+121,human,human,np_5,alph_3,fix_alphabet,9.0,gcdef
+121,human,human,np_symb,symb_1,pred,5.0,!)<@
+121,human,human,np_symb,symb_0,succ,2.0,=&<!
+122,human,human,np_1,alph_2,succ,5.0,efgi
+122,human,human,np_1,alph_0,add_letter,3.0,uvwxy
+122,human,human,np_1,alph_5,fix_alphabet,9.0,lmnop
+122,human,human,np_1,alph_6,sort,1.0,mnopq
+122,human,human,np_1,alph_3,remove_redundant,3.0,nopqr
+122,human,human,np_1,alph_1,pred,3.0,vxyz
+122,human,human,np_1,alph_4,attn,5.0,aaaa
+122,human,human,np_10,alph_2,add_letter,8.0,mnopq
+122,human,human,np_10,alph_6,remove_redundant,7.0,pqtyr
+122,human,human,np_10,alph_5,pred,6.0,ecdb
+122,human,human,np_10,alph_4,sort,5.0,juvwx
+122,human,human,np_10,alph_0,attn,9.0,aaaa
+122,human,human,np_10,alph_3,fix_alphabet,4.0,nolqr
+122,human,human,np_10,alph_1,succ,1.0,sudw
+122,human,human,np_symb,symb_1,pred,9.0,&$!+
+122,human,human,np_symb,symb_0,succ,7.0,) * @&
+123,human,human,np_symb,symb_1,succ,8.0,$!+<
+123,human,human,np_symb,symb_0,pred,6.0,) @ = &
+123,human,human,np_2,alph_4,fix_alphabet,6.0,decgh
+123,human,human,np_2,alph_0,attn,4.0,aaaa
+123,human,human,np_2,alph_2,sort,8.0,qrwtu
+123,human,human,np_2,alph_5,succ,0.0,jkfn
+123,human,human,np_2,alph_3,add_letter,9.0,yrstu
+123,human,human,np_2,alph_1,pred,9.0,dfgh
+123,human,human,np_2,alph_6,remove_redundant,2.0,uvwxy
+123,human,human,np_20,alph_2,fix_alphabet,8.0,mpghw
+123,human,human,np_20,alph_4,sort,3.0,vqyrl
+123,human,human,np_20,alph_0,pred,3.0,abpe
+123,human,human,np_20,alph_3,add_letter,3.0,qnyak
+123,human,human,np_20,alph_1,succ,9.0,abgy
+123,human,human,np_20,alph_6,remove_redundant,7.0,rgyev
+123,human,human,np_20,alph_5,attn,7.0,aaaa
+124,human,human,np_20,alph_3,remove_redundant,9.0,vhtcr
+124,human,human,np_20,alph_4,add_letter,0.0,wpcde
+124,human,human,np_20,alph_1,attn,5.0,aaaa
+124,human,human,np_20,alph_2,succ,5.0,ysok
+124,human,human,np_20,alph_5,fix_alphabet,2.0,mpduq
+124,human,human,np_20,alph_0,sort,9.0,qlgfj
+124,human,human,np_20,alph_6,pred,2.0,vzlo
+124,human,human,np_1,alph_1,fix_alphabet,2.0,stuvw
+124,human,human,np_1,alph_4,succ,3.0,ijkm
+124,human,human,np_1,alph_0,sort,1.0,lmnop
+124,human,human,np_1,alph_6,pred,3.0,lnmo
+124,human,human,np_1,alph_2,remove_redundant,3.0,lmnop
+124,human,human,np_1,alph_5,attn,3.0,aaaa
+124,human,human,np_1,alph_3,add_letter,2.0,uvwxy
+124,human,human,np_symb,symb_0,pred,4.0,*=&<
+124,human,human,np_symb,symb_1,succ,5.0,)<@*
+125,human,human,np_10,alph_0,sort,5.0,twvbx
+125,human,human,np_10,alph_6,remove_redundant,9.0,hpqty
+125,human,human,np_10,alph_5,add_letter,5.0,pnhql
+125,human,human,np_10,alph_4,attn,8.0,aaaa
+125,human,human,np_10,alph_1,pred,3.0,hsud
+125,human,human,np_10,alph_3,fix_alphabet,2.0,vwxey
+125,human,human,np_10,alph_2,succ,3.0,fgdj
+125,human,human,np_20,alph_5,sort,1.0,pdmpz
+125,human,human,np_20,alph_6,remove_redundant,6.0,brgye
+125,human,human,np_20,alph_4,fix_alphabet,1.0,iuvqy
+125,human,human,np_20,alph_1,add_letter,6.0,pnxqc
+125,human,human,np_20,alph_0,pred,8.0,lfjd
+125,human,human,np_20,alph_2,succ,1.0,katv
+125,human,human,np_20,alph_3,attn,9.0,aaaa
+125,human,human,np_symb,symb_0,pred,2.0,@&<+
+125,human,human,np_symb,symb_1,succ,3.0,+)<=
+126,human,human,np_10,alph_2,remove_redundant,4.0,n o o p q 
+126,human,human,np_10,alph_4,add_letter,2.0,b c d e f
+126,human,human,np_10,alph_5,succ,6.0,j k w p
+126,human,human,np_10,alph_0,fix_alphabet,7.0,.f b y r t
+126,human,human,np_10,alph_1,attn,8.0,a a a a 
+126,human,human,np_10,alph_3,sort,0.0,i b d k j
+126,human,human,np_10,alph_6,pred,8.0,r w v u
+126,human,human,np_symb,symb_1,succ,6.0,)
+126,human,human,np_symb,symb_0,pred,9.0,=&<@
+126,human,human,np_5,alph_4,sort,0.0,e p q s t
+126,human,human,np_5,alph_2,fix_alphabet,4.0,a n h p m
+126,human,human,np_5,alph_3,attn,9.0,a a a a 
+126,human,human,np_5,alph_0,pred,7.0,.q u r s
+126,human,human,np_5,alph_1,remove_redundant,4.0,x s t t u v
+126,human,human,np_5,alph_5,add_letter,2.0,w x y v i
+126,human,human,np_5,alph_6,succ,7.0,p o s q
+127,human,human,np_5,alph_3,attn,5.0,aaaa
+127,human,human,np_5,alph_6,sort,3.0,xwvyz
+127,human,human,np_5,alph_2,add_letter,5.0,pmrst
+127,human,human,np_5,alph_5,pred,6.0,suyw
+127,human,human,np_5,alph_0,succ,1.0,purt
+127,human,human,np_5,alph_1,fix_alphabet,4.0,pxstu
+127,human,human,np_5,alph_4,remove_redundant,9.0,uvwxy
+127,human,human,np_1,alph_5,fix_alphabet,8.0,uvwx
+127,human,human,np_1,alph_1,remove_redundant,7.0,fghij
+127,human,human,np_1,alph_0,sort,6.0,ghijk
+127,human,human,np_1,alph_6,pred,8.0,prst
+127,human,human,np_1,alph_3,add_letter,7.0,tuvwx
+127,human,human,np_1,alph_4,attn,8.0,aaaa
+127,human,human,np_1,alph_2,succ,5.0,efgj
+127,human,human,np_symb,symb_1,pred,6.0,)@=*
+127,human,human,np_symb,symb_0,succ,1.0,$)*=
+128,human,human,np_symb,symb_1,pred,3.0,>!+$
+128,human,human,np_symb,symb_0,succ,3.0,!+<&
+128,human,human,np_5,alph_0,pred,3.0,wxyz
+128,human,human,np_5,alph_5,remove_redundant,2.0,l m n o p
+128,human,human,np_5,alph_1,add_letter,1.0,q x s t
+128,human,human,np_5,alph_4,sort,2.0,u v w x y
+128,human,human,np_5,alph_2,succ,2.0,h p m s
+128,human,human,np_5,alph_3,fix_alphabet,4.0,v k l m n
+128,human,human,np_5,alph_6,attn,6.0,a a a a
+128,human,human,np_20,alph_0,attn,7.0,a a a a
+128,human,human,np_20,alph_2,pred,0.0,bfmp
+128,human,human,np_20,alph_4,succ,9.0,i u v y
+128,human,human,np_20,alph_1,fix_alphabet,8.0,d j e o l
+128,human,human,np_20,alph_6,sort,6.0,q k t m c
+128,human,human,np_20,alph_5,remove_redundant,5.0,r y t e f
+128,human,human,np_20,alph_3,add_letter,1.0,s d f z v
+129,human,human,np_symb,symb_1,succ,3.0,+ ) <=
+129,human,human,np_symb,symb_0,pred,8.0,$  * @ =
+129,human,human,np_10,alph_4,remove_redundant,5.0,g b c  d e
+129,human,human,np_10,alph_2,pred,7.0,m o p q
+129,human,human,np_10,alph_6,attn,2.0,a a a a
+129,human,human,np_10,alph_1,sort,2.0,og f i y
+129,human,human,np_10,alph_3,succ,8.0,b d k n
+129,human,human,np_10,alph_5,fix_alphabet,1.0,v o x y z
+129,human,human,np_10,alph_0,add_letter,8.0,a q c d e
+129,human,human,np_20,alph_1,sort,5.0,eoflu
+129,human,human,np_20,alph_4,pred,4.0,ontk
+129,human,human,np_20,alph_5,remove_redundant,3.0,xjszm
+129,human,human,np_20,alph_0,attn,4.0,aaaa
+129,human,human,np_20,alph_3,succ,3.0,uqna
+129,human,human,np_20,alph_2,add_letter,4.0,vrxjz
+129,human,human,np_20,alph_6,fix_alphabet,2.0,cmtfs
+130,human,human,np_20,alph_3,attn,0.0,aaaa
+130,human,human,np_20,alph_1,pred,2.0,ymhi
+130,human,human,np_20,alph_2,remove_redundant,8.0,vrxjz
+130,human,human,np_20,alph_5,fix_alphabet,7.0,zmpdu
+130,human,human,np_20,alph_6,succ,5.0,xpjn
+130,human,human,np_20,alph_4,sort,5.0,iuvqy
+130,human,human,np_20,alph_0,add_letter,4.0,twmci
+130,human,human,np_symb,symb_1,succ,1.0,&>$+
+130,human,human,np_symb,symb_0,pred,8.0,$*@=
+130,human,human,np_5,alph_0,pred,1.0,ndef
+130,human,human,np_5,alph_5,remove_redundant,6.0,ghkjz
+130,human,human,np_5,alph_6,attn,8.0,aaaa
+130,human,human,np_5,alph_2,succ,5.0,jkln
+130,human,human,np_5,alph_1,fix_alphabet,1.0,rmnlp
+130,human,human,np_5,alph_4,add_letter,1.0,uvwxy
+130,human,human,np_5,alph_3,sort,8.0,pnrst
+131,human,human,np_symb,symb_0,pred,5.0,*@
+131,human,human,np_symb,symb_1,succ,2.0,< $!+
+131,human,human,np_10,alph_3,succ,8.0,n
+131,human,human,np_10,alph_6,attn,3.0,a a a a
+131,human,human,np_10,alph_2,add_letter,1.0,y
+131,human,human,np_10,alph_4,sort,4.0,j
+131,human,human,np_10,alph_1,pred,3.0,h
+131,human,human,np_10,alph_0,fix_alphabet,4.0,g
+131,human,human,np_10,alph_5,remove_redundant,8.0,e
+131,human,human,np_5,alph_5,fix_alphabet,8.0,x
+131,human,human,np_5,alph_6,sort,4.0,p
+131,human,human,np_5,alph_3,add_letter,2.0,h
+131,human,human,np_5,alph_1,remove_redundant,3.0,i
+131,human,human,np_5,alph_0,succ,1.0,t
+131,human,human,np_5,alph_4,pred,0.0,p
+131,human,human,np_5,alph_2,attn,7.0,a a a a 
+132,human,human,np_2,alph_5,attn,0.0,aaaa
+132,human,human,np_2,alph_1,fix_alphabet,0.0,alcdi
+132,human,human,np_2,alph_4,succ,4.0,abfe
+132,human,human,np_2,alph_0,add_letter,5.0,bvwxy
+132,human,human,np_2,alph_2,sort,9.0,hgfji
+132,human,human,np_2,alph_3,pred,1.0,bdef
+132,human,human,np_2,alph_6,remove_redundant,2.0,uvwxy
+132,human,human,np_symb,symb_1,pred,2.0,>!+)
+132,human,human,np_symb,symb_0,succ,5.0,= & <!
+132,human,human,np_10,alph_5,pred,0.0,mnhq
+132,human,human,np_10,alph_4,sort,6.0,mloph
+132,human,human,np_10,alph_1,remove_redundant,6.0,vwmjz
+132,human,human,np_10,alph_2,attn,9.0,aaaa
+132,human,human,np_10,alph_0,succ,6.0,nklu
+132,human,human,np_10,alph_3,add_letter,0.0,tuvwx
+132,human,human,np_10,alph_6,fix_alphabet,2.0,vwlmz
+133,human,human,np_1,alph_0,add_letter,6.0,stuvw
+133,human,human,np_1,alph_3,pred,0.0,mopq
+133,human,human,np_1,alph_2,succ,6.0,qrsu
+133,human,human,np_1,alph_5,remove_redundant,0.0,klmno
+133,human,human,np_1,alph_4,attn,2.0,aaaa
+133,human,human,np_1,alph_6,sort,3.0,rutvs
+133,human,human,np_1,alph_1,fix_alphabet,0.0,ijqln
+133,human,human,np_symb,symb_0,pred,3.0,*=&<
+133,human,human,np_symb,symb_1,succ,8.0,$!+<
+133,human,human,np_20,alph_4,fix_alphabet,6.0,mntkf
+133,human,human,np_20,alph_1,attn,9.0,aaaa
+133,human,human,np_20,alph_2,remove_redundant,0.0,mpghw
+133,human,human,np_20,alph_0,pred,7.0,abpe
+133,human,human,np_20,alph_6,add_letter,4.0,evwzl
+133,human,human,np_20,alph_3,succ,2.0,pwjx
+133,human,human,np_20,alph_5,sort,3.0,psjmz
+134,human,human,np_20,alph_5,fix_alphabet,0.0,ztefj
+134,human,human,np_20,alph_2,sort,8.0,pghwi
+134,human,human,np_20,alph_6,succ,1.0,hnad
+134,human,human,np_20,alph_0,add_letter,8.0,stwmc
+134,human,human,np_20,alph_4,attn,4.0,aaaa
+134,human,human,np_20,alph_1,pred,4.0,zwmh
+134,human,human,np_20,alph_3,remove_redundant,3.0,qnyyakk
+134,human,human,np_1,alph_2,fix_alphabet,1.0,hijkl
+134,human,human,np_1,alph_0,attn,5.0,aaaa
+134,human,human,np_1,alph_3,remove_redundant,4.0,mnopq
+134,human,human,np_1,alph_6,add_letter,3.0,klmno
+134,human,human,np_1,alph_1,succ,0.0,bcdf
+134,human,human,np_1,alph_4,pred,7.0,uwxy
+134,human,human,np_1,alph_5,sort,9.0,klmno
+134,human,human,np_symb,symb_0,pred,5.0,=@=&
+134,human,human,np_symb,symb_1,succ,2.0,+>$!

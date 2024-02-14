@@ -1,0 +1,200 @@
+var all_problems = {
+  "symb_0": {
+    "shuffled_letters": null,
+    "shuffled_alphabet": [
+      ">",
+      "$",
+      ")",
+      "*",
+      "@",
+      "=",
+      "&",
+      "<",
+      "+",
+      "!"
+    ],
+    "succ": [
+      {
+        "prompt": "[$ ) * @] &nbsp [$ ) * =]<br>[) * @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 0
+      },
+      {
+        "prompt": "[@ = & <] &nbsp [@ = & +]<br>[$ ) * @] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 1
+      },
+      {
+        "prompt": "[$ ) * @] &nbsp [$ ) * =]<br>[= & < +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 2
+      },
+      {
+        "prompt": "[* @ = &] &nbsp [* @ = <]<br>[> $ ) *] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 3
+      },
+      {
+        "prompt": "[@ = & <] &nbsp [@ = & +]<br>[* @ = &] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 4
+      },
+      {
+        "prompt": "[* @ = &] &nbsp [* @ = <]<br>[= & < +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 5
+      },
+      {
+        "prompt": "[* @ = &] &nbsp [* @ = <]<br>[@ = & <] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 6
+      },
+      {
+        "prompt": "[= & < +] &nbsp [= & < !]<br>[) * @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 7
+      },
+      {
+        "prompt": "[* @ = &] &nbsp [* @ = <]<br>[) * @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 8
+      },
+      {
+        "prompt": "[> $ ) *] &nbsp [> $ ) @]<br>[) * @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 9
+      }
+    ],
+    "pred": [
+      {
+        "prompt": "[$ ) * @] &nbsp [> ) * @]<br>[) * @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 0
+      },
+      {
+        "prompt": "[) * @ =] &nbsp [$ * @ =]<br>[* @ = &] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 1
+      },
+      {
+        "prompt": "[* @ = &] &nbsp [) @ = &]<br>[= & < +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 2
+      },
+      {
+        "prompt": "[* @ = &] &nbsp [) @ = &]<br>[@ = & <] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 3
+      },
+      {
+        "prompt": "[$ ) * @] &nbsp [> ) * @]<br>[@ = & <] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 4
+      },
+      {
+        "prompt": "[& < + !] &nbsp [= < + !]<br>[* @ = &] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 5
+      },
+      {
+        "prompt": "[@ = & <] &nbsp [* = & <]<br>[* @ = &] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 6
+      },
+      {
+        "prompt": "[$ ) * @] &nbsp [> ) * @]<br>[* @ = &] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 7
+      },
+      {
+        "prompt": "[& < + !] &nbsp [= < + !]<br>[) * @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 8
+      },
+      {
+        "prompt": "[@ = & <] &nbsp [* = & <]<br>[= & < +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 9
+      }
+    ]
+  },
+  "symb_1": {
+    "shuffled_letters": null,
+    "shuffled_alphabet": [
+      "&",
+      ">",
+      "$",
+      "!",
+      "+",
+      ")",
+      "<",
+      "@",
+      "=",
+      "*"
+    ],
+    "succ": [
+      {
+        "prompt": "[) < @ =] &nbsp [) < @ *]<br>[+ ) < @] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 0
+      },
+      {
+        "prompt": "[> $ ! +] &nbsp [> $ ! )]<br>[& > $ !] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 1
+      },
+      {
+        "prompt": "[$ ! + )] &nbsp [$ ! + <]<br>[> $ ! +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 2
+      },
+      {
+        "prompt": "[! + ) <] &nbsp [! + ) @]<br>[+ ) < @] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 3
+      },
+      {
+        "prompt": "[> $ ! +] &nbsp [> $ ! )]<br>[+ ) < @] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 4
+      },
+      {
+        "prompt": "[$ ! + )] &nbsp [$ ! + <]<br>[) < @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 5
+      },
+      {
+        "prompt": "[! + ) <] &nbsp [! + ) @]<br>[> $ ! +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 6
+      },
+      {
+        "prompt": "[) < @ =] &nbsp [) < @ *]<br>[$ ! + )] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 7
+      },
+      {
+        "prompt": "[& > $ !] &nbsp [& > $ +]<br>[$ ! + )] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 8
+      },
+      {
+        "prompt": "[& > $ !] &nbsp [& > $ +]<br>[! + ) <] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 9
+      }
+    ],
+    "pred": [
+      {
+        "prompt": "[+ ) < @] &nbsp [! ) < @]<br>[) < @ =] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 0
+      },
+      {
+        "prompt": "[$ ! + )] &nbsp [> ! + )]<br>[+ ) < @] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 1
+      },
+      {
+        "prompt": "[< @ = *] &nbsp [) @ = *]<br>[$ ! + )] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 2
+      },
+      {
+        "prompt": "[$ ! + )] &nbsp [> ! + )]<br>[> $ ! +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 3
+      },
+      {
+        "prompt": "[+ ) < @] &nbsp [! ) < @]<br>[! + ) <] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 4
+      },
+      {
+        "prompt": "[) < @ =] &nbsp [+ < @ =]<br>[+ ) < @] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 5
+      },
+      {
+        "prompt": "[! + ) <] &nbsp [$ + ) <]<br>[< @ = *] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 6
+      },
+      {
+        "prompt": "[! + ) <] &nbsp [$ + ) <]<br>[> $ ! +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 7
+      },
+      {
+        "prompt": "[! + ) <] &nbsp [$ + ) <]<br>[$ ! + )] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 8
+      },
+      {
+        "prompt": "[< @ = *] &nbsp [) @ = *]<br>[> $ ! +] &nbsp [&nbsp ? &nbsp]",
+        "prob_ind": 9
+      }
+    ]
+  }
+}
