@@ -16,7 +16,7 @@ parser.add_argument('--gpt', help='give gpt model: 3, 35, 4')
 args = parser.parse_args()
 
 # GPT settings
-openai.api_key = "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"
+openai.api_key = "API KEY HERE"
 if args.gpt == '3':
     print("You can no longer use the option for GPT-3 as it is deprecated")
     kwargs = {"engine":"text-davinci-003", "temperature":0, "max_tokens":40, "stop":"\n", "echo":False, "logprobs":1, }

@@ -28,7 +28,7 @@ if args.promptstyle == "webb" and int(args.num_permuted) >1:
 	sys.exit()
 
 # GPT settings
-openai.api_key = "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"
+openai.api_key = "API KEY HERE"
 if args.gpt == '3':
     print('GPT3 no longer available')
     kwargs = {"engine":"text-davinci-003", "temperature":0, "max_tokens":40, "stop":"\n", "echo":False, "logprobs":1, }
